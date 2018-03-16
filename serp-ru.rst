@@ -727,7 +727,7 @@ Online);
 минимально необходимые для того, чтобы немедленно начать работу. Доступ
 к ним имеется в разделе **Главное** по одноименным гиперссылкам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_nastroyka_rabotyi_polzovatelya_v_konfiguratsii\image001.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_nastroyka_rabotyi_polzovatelya_v_konfiguratsiiimage001.png|
 
 Для заполнения информации об организации необходимо открыть форму
 **Помощника** **заполнения информации об организации** и в ней за
@@ -790,7 +790,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 ■ прочие настройки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__predpriyatie_\image003.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__predpriyatie_image003.png|
 
 Организации
 ^^^^^^^^^^^
@@ -831,11 +831,11 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Справочник **Организации** позволяет вести неограниченный список
 организаций.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image005.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage005.png|
 
 Ввод информации об организации производится в диалоговом окне.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image007.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage007.png|
 
 В поле **Краткое наименование** вводится краткое наименование
 организации. С помощью переключателя определяется, является ли она
@@ -865,14 +865,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 программе и составляются графики работы подразделений, а также графики
 работы сотрудников.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image009.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage009.png|
 
 Закладка **Адреса**, содержит поля для ввода юридического и фактического
 адресов, а также произвольной контактной информации. Для организации
 может быть указан, например, сотовый телефон директора, телефон отдела
 снабжения, телефон охраны и т. д.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image011.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage011.png|
 
 На закладке **Настройка печати** имеется возможность выбрать из
 присоединенных файлов логотип и факсимиле компании для использования их
@@ -888,12 +888,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Банковский счет** на вкладке **Реквизиты** указывается банковский
 счет, который будет использоваться для данной организации по умолчанию.
 Для этого нужно нажать кнопку
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image013.png| и
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsiiimage013.png| и
 выбрать действие **Показать все**. Появится диалоговое окно со списком
 доступных банковских счетов, в который с помощью кнопки **Создать**
 можно добавить информацию о новом банковском счете.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image015.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsiiimage015.png|
 
 В карточке банковского счета указывается его номер, вид (расчетный
 (текущий), ссудный, депозитный или иной) и валюта. Вид счета выбирается
@@ -921,7 +921,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 служит регистр сведений **Ответственные лица**, подчиненный справочнику
 **Организации**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_otvetstvennyie_litsa\image017.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_otvetstvennyie_litsaimage017.png|
 
 Регистр содержит список сотрудников, назначенных ответственными лицами
 организации. Для каждого сотрудника в поле **Период** указывается дата,
@@ -945,7 +945,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 хранится список названий должностей, которые могут занимать сотрудники
 компании.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_dolzhnosti\image019.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_dolzhnostiimage019.png|
 
 Сотрудники
 ^^^^^^^^^^
@@ -955,12 +955,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Сотрудники** предназначен для хранения информации о сотрудниках
 организации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image021.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudnikiimage021.png|
 
 В справочнике указываются сведения, связанные с трудовой деятельностью
 физического лица.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image023.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudnikiimage023.png|
 
 Список физических лиц, как являющихся сотрудниками компании, так и не
 являющихся, хранится в справочнике **Физические лица**, и каждому
@@ -982,14 +982,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Доступ к справочнику можно получить с помощью панели навигации в разделе
 **Зарплата**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image025.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage025.png|
 
 Элементы справочника можно объединять в произвольные группы и подгруппы;
 количество уровней вложенности неограниченно. Предусмотрена возможность
 разделения физических лиц по дополнительным признакам. На закладке
 **Адреса** указываются контактные данные физического лица.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image027.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage027.png|
 
 Для каждого физического лица с помощью отдельной формы вводится
 информация о документах, удостоверяющих личность.
@@ -997,7 +997,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Фамилию, имя и отчество физического лица также можно ввести с помощью
 отдельной формы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image030.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage030.png|
 
 Если для физического лица определены дополнительные реквизиты и/или
 дополнительные сведения, то в форме появляется одноименная закладка
@@ -1024,12 +1024,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 «Структурные единицы»**. Для каждой организации эти данные вводятся
 отдельно.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image036.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage036.png|
 
 На вкладке **Общая информация** для каждой организационно-структурной
 единицы указывается ее наименование и тип подразделения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image038.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage038.png|
 
 На вкладке **Адреса** можно указать фактический адрес подразделения и
 телефон.
@@ -1039,7 +1039,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 дополнительный диалог ввода и изменения параметров перемещения запасов
 для подстановки в документы учета запасов по умолчанию.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image040.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage040.png|
 
 Направления деятельности
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1052,7 +1052,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 переход к которому выполняется по гиперссылке **Справочник «Направления
 деятельности»**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_napravleniya_deyatelnosti\image042.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_napravleniya_deyatelnostiimage042.png|
 
 Элементы справочника используются в качестве аналитик учета доходов и
 расходов, финансового результата.
@@ -1070,7 +1070,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 параметров учета **Предприятие** раздела **Настройки** с помощью
 гиперссылки **Справочник «Ресурсы предприятия»**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_resursyi_predpriyatiya\image046.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_resursyi_predpriyatiyaimage046.png|
 
 Прочее
 ^^^^^^
@@ -1107,7 +1107,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 наценок, прием и передача товара на комиссию, хранение информации о
 проектах и объединение заказов покупателей в проекты.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__prodazhi_\image048.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__prodazhi_image048.png|
 
 Розница
 ^^^^^^^
@@ -1125,7 +1125,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 учета с помощью гиперссылки **Справочник «Кассы ККМ»**. Справочник
 становится доступен при установке флажка **Учет розничных продаж**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3179623413_kassyi_kkm\image050.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3179623413_kassyi_kkmimage050.png|
 
 Эквайринговые терминалы
 '''''''''''''''''''''''
@@ -1156,7 +1156,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 справочник и заполнить информацию о состояниях заказов покупателей,
 которые планируется использовать на предприятии.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1420159108_zakazyi_pokupateley\image052.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1420159108_zakazyi_pokupateleyimage052.png|
 
 Раздел настроек «Закупки»
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1191,7 +1191,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В разделе задается срок оплаты поставщику по умолчанию, используемый для
 подстановки в соответствующий реквизит договора с поставщиком.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zakupki_\image054.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zakupki_image054.png|
 
 Склады
 ^^^^^^
@@ -1200,13 +1200,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 единицах компании, имеется доступ из формы настройки параметров учета по
 гиперссылке **Справочник «Структурные единицы»**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image056.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage056.png|
 
 На вкладке **Общая информация** для каждой организационно-структурной
 единицы указывается тип, розничный вид цен, материально ответственное
 лицо.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image058.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage058.png|
 
 На вкладке **Адреса** можно указать адрес склада и его телефон.
 
@@ -1215,14 +1215,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 дополнительный диалог ввода и изменения параметров перемещения запасов
 для подстановки в документы учета запасов по умолчанию.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image060.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage060.png|
 
 Каждой структурной единице можно назначить произвольное количество ячеек
 склада, перейдя к форме подчиненного справочника **Ячейки склада**. Для
 каждой ячейки задается наименование и разрешается неограниченное
 количество уровней вложенности.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image062.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage062.png|
 
 Состояния заказов поставщикам
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1245,14 +1245,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 информацию о состояниях заказов поставщикам, которые планируется
 использовать на предприятии.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_sostoyaniya_zakazov_postavschikam\image064.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_sostoyaniya_zakazov_postavschikamimage064.png|
 
 Раздел настроек «Сервис»
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 В разделе задаются настройки учета состояний заказов-нарядов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__servis_\image066.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__servis_image066.png|
 
 В программе возможен учет состояний заказов-нарядов по обычной и
 упрощенной схеме (рекомендуемый вариант). При использовании упрощенной
@@ -1286,7 +1286,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 ■ использование переработки давальческого сырья.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__proizvodstvo_\image068.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__proizvodstvo_image068.png|
 
 Состояния заказов на производство
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1308,7 +1308,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 открыть справочник и заполнить информацию о состояниях заказов на
 производство, которые планируется использовать на предприятии.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1801298459_sostoyaniya_zakazov_na_proizvodstvo\image070.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1801298459_sostoyaniya_zakazov_na_proizvodstvoimage070.png|
 
 Раздел настроек «Деньги»
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1318,7 +1318,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 многовалютного учета, использования платежного календаря,
 автоматического зачета авансов и долгов при проведении документов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__dengi_\image072.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__dengi_image072.png|
 
 Если в прикладном решении планируется ведение учета операций в валюте,
 отличной от национальной, должен быть установлен флажок **Вести учет
@@ -1348,7 +1348,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 хранения и движения денежных средств (кассовые помещения, сейфы
 руководителей подразделений).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyi\image074.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyiimage074.png|
 
 Одна касса может использоваться в разных организациях, и в одной кассе
 могут храниться денежные средства в разных валютах.
@@ -1365,7 +1365,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 выпадающего списка, состав которого определяется содержимым справочника
 **Валюты** (см. стр. **Error! Bookmark not defined.**).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyi\image076.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyiimage076.png|
 
 При оформлении документов, сопровождающих поступление и выдачу наличных
 денег (приходного и расходного кассового ордера), из справочника касс
@@ -1380,7 +1380,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 включить возможность ведения учета внутренних совместителей, штатного
 расписания, отражения налога на доходы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zarplata_\image078.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zarplata_image078.png|
 
 .. _должности-1:
 
@@ -1391,7 +1391,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 которые могут занимать сотрудники организации. Справочник доступен по
 гиперссылке **Должности** в разделе **Зарплата**, группа **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnosti\image080.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnostiimage080.png|
 
 Виды рабочего времени
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1400,7 +1400,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 табеле вида использованного времени. Справочник доступен по гиперссылке
 **Виды рабочего времени** в разделе **Зарплата**, группа **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_rabochego_vremeni\image082.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_rabochego_vremeniimage082.png|
 
 Виды документов физических лиц
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1410,7 +1410,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 гиперссылке **Виды документов физических лиц** в разделе **Зарплата**,
 группа **Справочники**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_dokumentov_fizicheskikh_lits\image084.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_dokumentov_fizicheskikh_litsimage084.png|
 
 Глава 3
 
@@ -1436,7 +1436,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 одноименной команде панели навигации в разделе **Продажи**. Ввод данных
 о контрагенте осуществляется с помощью формы – карточки контрагента.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image086.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage086.png|
 
 Для каждого контрагента путем установки переключателя **Вид
 контрагента** определяется тип организации (юридическое или физическое
@@ -1447,7 +1447,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 По ссылке можно перейти к списку дублей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image088.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage088.png|
 
 Из списка дублей по ссылке **Документы по контрагенту** можно
 просмотреть список введенных документов по выбранному контрагенту.
@@ -1462,14 +1462,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 которые нужно заполнить, чтобы получить отчеты по взаиморасчетам с
 контрагентами в соответствующих разрезах.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image092.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage092.png|
 
 Для быстрого ввода адресов используется адресный классификатор. Адреса и
 телефоны вводятся с использованием специального диалога.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image094.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage094.png|
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image096.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage096.png|
 
 Контактные лица контрагентов
 ----------------------------
@@ -1481,7 +1481,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 справочнике **Контактные лица контрагентов**, подчиненном справочнику
 **Контрагенты**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image098.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage098.png|
 
 Для каждого контактного лица указывается ФИО и роль. Редактирование
 информации о контактных лицах контрагента производится в отдельном
@@ -1502,7 +1502,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Для каждого контактного лица указывается его роль на закладке **Роли**.
 Значение роли выбирается из одноименного справочника.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image100.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage100.png|
 
 В форме контактного лица предусмотрены также закладки **Дополнительно**
 (для ввода произвольного комментария сотрудника, зарегистрировавшего
@@ -1512,7 +1512,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В программе имеется возможность выводить на печать контактную информацию
 контрагентов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image102.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage102.png|
 
 Для печати контактной информации нужно в списке контрагентов:
 
@@ -1531,7 +1531,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 контактному лицу контрагента или личная встреча с ним, регистрируются и
 планируются с помощью документа **Событие**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image104.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage104.png|
 
 Каждому событию присваивается одно из трех возможных состояний –
 **Запланировано**, **Завершено**, **Отменено**. Для события указываются
@@ -1558,13 +1558,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 с выбранным контрагентом непосредственно из его карточки, выведя на
 экран всю историю событий по нажатию на гиперссылку **События**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image106.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage106.png|
 
 Из карточки контрагента можно вывести на экран список всех документов,
 связанных с данным контрагентом. Для этого на панели навигации
 предусмотрена гиперссылка **Документы по контрагенту**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image108.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage108.png|
 
 Отправка электронных писем
 --------------------------
@@ -1572,17 +1572,17 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Отправить электронное письмо контрагенту можно из карточки контрагента,
 выбрав команду **Отправить e-mail** из выпадающего меню **Еще…**
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image110.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage110.png|
 
 Сформированный печатный документ можно отправить по электронной почте
 контрагенту непосредственно из формы документа по кнопке **Отправить…**
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image112.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage112.png|
 
 Отправка электронного письма автоматически фиксируется в программе
 созданием документа **Событие**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image114.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage114.png|
 
 Информацию об отправленных электронных письмах можно получить:
 
@@ -1602,12 +1602,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 запланировать новые. Анализ запланированных событий и заданий
 осуществляется на закладке **Моя повестка дня**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image116.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage116.png|
 
 Для планирования событий и заданий (как по себе, так и по другим
 сотрудникам) предназначено **Расписание сотрудников**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image118.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage118.png|
 
 Чтобы запланировать новое событие, в форме расписания **День**
 необходимо двойным щелчком мыши на шкале расписания или щелчком правой
@@ -1617,7 +1617,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 События можно просматривать также в виде представления **Месяц**. Для
 этого необходимо установить в нажатое состояние кнопку **Месяц**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image120.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage120.png|
 
 Ценообразование
 ---------------
@@ -1632,7 +1632,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Для формирования, просмотра и настройки прайс-листа следует
 воспользоваться гиперссылкой **Прайс-лист** группы **Цены**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image122.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage122.png|
 
 Структура прайс-листа определяется видами цен, которые образуют колонки
 прайс-листа, и ценовыми группами, с помощью которых можно разбить
@@ -1642,12 +1642,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 сформировать прайс-лист с отбором данных по ценам, ценовым группам,
 конкретным товарам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image124.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage124.png|
 
 Кроме этого, можно воспользоваться расширенными отборами. Для этого
 нужно нажать кнопку **Настройка** и задать необходимые условия.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image126.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage126.png|
 
 Добавление, удаление, установка цен номенклатуры также могут
 осуществляться с помощью прайс-листа.
@@ -1661,7 +1661,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 цена** и **Учетная цена**. Пользователь имеет возможность редактировать
 их и добавлять в справочник любые другие виды цен.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image128.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage128.png|
 
 Для каждого вида цены в шапке документа задается наименование, валюта,
 определяется, в какую сторону будут округляться цены данного вида и
@@ -1682,13 +1682,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 динамически** в форме появляется обязательный для заполнения реквизит
 **Базовый вид цен**. Для расчета цены можно указать процент наценки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image130.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage130.png|
 
 На закладке **Формат цен** можно задать формат для выбранного вида цен,
 воспользовавшись специальным диалогом – конструктором, вызываемым по
 нажатию кнопки **Изменить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image132.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage132.png|
 
 Формат используется при выводе цены в прайс-листе.
 
@@ -1701,7 +1701,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 содержится в одноименном справочнике, вызываемом по кнопке **Ценовые
 группы** формы прайс-листа.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyi\image134.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyiimage134.png|
 
 Скидки и наценки
 ~~~~~~~~~~~~~~~~
@@ -1711,7 +1711,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 наценок**. Справочник доступен по одноименной гиперссылке группы
 **Цены**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenki\image136.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenkiimage136.png|
 
 Для каждого элемента справочника указывается наименование скидки и ее
 процент (процент наценки указывается со знаком минус); может быть
@@ -1726,7 +1726,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 накладных доступен по гиперссылке панели навигации **Расходные
 накладные** в группе **Продажи**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image138.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenokimage138.png|
 
 Для того чтобы назначить скидку на выбранный товар, нужно в форме
 документа нажать на гиперссылку, выделенную на рисунке. В открывшейся
@@ -1734,7 +1734,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 наценки** выбрать вид скидки, установить флажок **Перезаполнить цены** и
 нажать кнопку **ОК**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image140.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenokimage140.png|
 
 Формирование цен
 ~~~~~~~~~~~~~~~~
@@ -1772,7 +1772,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 устанавливаются актуальные оптовые цены для выбранной номенклатуры. Цены
 изменяются по данным выбранного документа – приходной накладной.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_formirovanie_tsen\image142.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_formirovanie_tsenimage142.png|
 
 По нажатию кнопки **Установить** группы реквизитов **Шаг 4**
 производится установка цен для товаров, указанных в табличном поле
@@ -1810,7 +1810,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 покупателей содержится в журнале заказов, доступном по гиперссылке
 панели навигации **Продажи – Заказы покупателей**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image144.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage144.png|
 
 Список заказов содержит информацию о выполнении заказа, состоянии
 заказа, о проценте оплаты по заказу.
@@ -1839,12 +1839,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 (только в том случае, если при настройках параметров учета включено
 ведение учета по проектам).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image146.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage146.png|
 
 Для того чтобы назначить скидку на выбранный товар, нужно в форме
 документа щелкнуть по гиперссылке, выделенной на рисунке.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image148.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage148.png|
 
 В открывшейся вспомогательной форме указать вид цен, вид скидки, выбрав
 ее из справочника **Виды скидок, наценок**, установить флажок
@@ -1861,7 +1861,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Справочник «Состояния заказов покупателей»** в настройках учета
 **Продажи** раздела **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image150.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage150.png|
 
 Пользователь может создать любые удобные для работы значения состояний.
 Каждому состоянию присваивается статус: **Открыт**, **В работе** или
@@ -1888,14 +1888,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 быть выплачен не позднее указанной даты. Суммы оплаты (процента) и НДС
 будут рассчитаны автоматически.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image152.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage152.png|
 
 Данные об оплате могут быть представлены в виде списка, который
 позволяет запланировать оплату в несколько этапов. Для его просмотра и
 редактирования необходимо установить в нажатое состояние кнопку
 **Список**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image154.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage154.png|
 
 Заказ покупателя можно настроить. Для этого необходимо нажать кнопку
 командной панели формы **Настройка**. В открывшемся диалоге можно
@@ -1903,7 +1903,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 отгрузки в шапке (весь заказ на одну дату) или указывать дату отгрузки в
 табличной части, для каждой строки документа.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image156.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage156.png|
 
 Если необходимо запомнить сделанные настройки по умолчанию для текущего
 пользователя, то нужно нажать кнопку **Запомнить выбор**, после чего они
@@ -1923,12 +1923,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 договорах предназначен справочник **Договоры контрагентов**, подчиненный
 справочнику **Контрагенты**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image158.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage158.png|
 
 Новый договор можно ввести как из карточки контрагента, так и в процессе
 заполнения документа **Заказ покупателя**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image160.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage160.png|
 
 В форме элемента справочника указывается контрагент, номер и дата
 заключения договора, валюта расчетов. Реквизит **Наименование**
@@ -1972,7 +1972,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 панели навигации карточки договора, нужно открыть форму **Присоединенные
 файлы**, нажать в ней кнопку **Создать** и выбрать присоединяемый файл.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image162.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage162.png|
 
 Перед сохранением файла его можно переименовать, снабдить примечанием,
 указать автора.
@@ -1988,13 +1988,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 содержится в журнале, доступном по гиперссылке панели навигации
 **Продажи – Счета на оплату**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image164.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatuimage164.png|
 
 Документ может формироваться на основании заказа, расходной накладной
 или акта выполненных работ. Счет на оплату содержит информацию о
 заказанных товарах и услугах, их количестве и цене.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image166.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatuimage166.png|
 
 В документе **Счет на оплату**, также как и в заказе, предусмотрена
 возможность планирования оплаты. Для планирования в форме документа
@@ -2026,7 +2026,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Закупки** раздела **Настройки** установлен флажок **Использовать
 резервирование запасов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_rezervirovanie_zapasov\image168.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_rezervirovanie_zapasovimage168.png|
 
 В колонках **Исходное место** и **Новое место** указываются структурные
 единицы, в которых должен размещаться резервируемый товар до и после
@@ -2050,7 +2050,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Для отражения в учете реализации товаров стороннему контрагенту
 предназначен документ **Расходная накладная**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image170.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage170.png|
 
 Документ может быть сформирован на основании документа **Заказ
 покупателя** и по содержанию в основном аналогичен ему. В расходной
@@ -2070,7 +2070,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 используемые для печати документов, например, ответственные лица,
 грузоперевозчик, грузоотправитель, марка автомобиля и прицепа и т. д.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image172.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage172.png|
 
 В свою очередь, на основании документа **Расходная накладная** можно
 сформировать следующие документы:
@@ -2102,7 +2102,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 услуг покупателям, в том числе и по находящимся в работе заказам
 покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image174.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage174.png|
 
 Документы можно оформить как по одному, так и по нескольким выделенным
 заказам покупателей.
@@ -2118,7 +2118,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 при реализации работ и услуг, а также при получении аванса (предоплаты)
 от покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_schet_faktura\image176.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_schet_fakturaimage176.png|
 
 В документ переносятся сведения из соответствующей расходной накладной.
 Номер и дата присваиваются документу автоматически при его сохранении.
@@ -2135,7 +2135,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 предназначен для оформления возврата номенклатурных позиций, которые
 были отгружены покупателю ранее.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_vozvrat_tovarov\image178.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_vozvrat_tovarovimage178.png|
 
 Документ может быть введен на основании расходной накладной. При этом
 табличное поле будет заполнено данными документа-основания.
@@ -2148,7 +2148,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ **Акт выполненных работ** предназначен для отражения в учете
 реализации услуг (работ).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabot\image180.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabotimage180.png|
 
 По содержанию документ в основном аналогичен расходной накладной, однако
 в табличном поле указывается только номенклатура с типом **Работа** или
@@ -2157,7 +2157,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Список документов позволяет отражать факт выполнения услуг покупателям,
 в том числе и по находящимся в работе заказам покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabot\image182.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabotimage182.png|
 
 Документы оформляются как по одному, так и по нескольким выделенным
 заказам покупателей.
@@ -2184,7 +2184,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Передача товаров на комиссию оформляется документом **Расходная
 накладная** с видом операции **Передача на комиссию**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_peredacha_tovarov_na_komissiyu\image184.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_peredacha_tovarov_na_komissiyuimage184.png|
 
 При проведении документа регистрируется факт передачи наших товаров
 контрагенту. В табличном поле указывается перечень передаваемых товаров
@@ -2198,7 +2198,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 организацией на комиссию (реализацию), и доступен по гиперссылке
 **Отчеты комиссионеров** панели навигации в группе **Продажи**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissionera\image186.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissioneraimage186.png|
 
 Документ **Отчет комиссионера** содержит две табличные части.
 
@@ -2220,7 +2220,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 вознаграждения** – сумма, удерживаемая комиссионером, рассчитанная на
 закладке **Дополнительно**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissionera\image188.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissioneraimage188.png|
 
 На вкладке **Дополнительно** указывается способ расчета комиссионного
 вознаграждения:
@@ -2249,7 +2249,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 документ **Приходная накладная**, доступ к которому имеется в разделе
 **Закупки**, с видом операции **Прием на комиссию**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_priem_tovarov_na_komissiyu\image190.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_priem_tovarov_na_komissiyuimage190.png|
 
 В табличном поле для каждого товара можно указать документ заказа, в
 рамках которого происходит прием. Товар, принятый на комиссию, может
@@ -2316,7 +2316,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 цен. Доступ к справочнику осуществляется по гиперссылке **Склады**
 нормативно-справочной информации раздела **Предприятие**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_roznichnyie_prodazhi\image193.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_roznichnyie_prodazhiimage193.png|
 
 Перемещение запасов в розничную точку
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2325,25 +2325,25 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 последующего перемещения в розничную точку. Данная процедура оформляется
 документом **Приходная накладная**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image195.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage195.png|
 
 С основного склада поступивший запас перемещается в розничную точку
 документом **Перемещение**. Если для товара не была установлена
 розничная цена, документ не проведется. При этом пользователю будет
 выдано сообщение и подсказка об ошибке.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image197.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage197.png|
 
 Для проведения документа необходимо установить для перемещаемых запасов
 розничные цены. Для этого используется обработка **Прайс-лист компании**
 (подробнее см. стр. 66) или **Формирование цен** (см. стр. 74).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image199.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage199.png|
 
 После установки розничных цен запас успешно перемещается в требуемую
 торговую точку.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image201.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage201.png|
 
 Поступление товара в розницу
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2352,7 +2352,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 этом случае поступление оформляется с помощью приходной накладной, где в
 качестве принимающего склада указана розничная точка.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_postuplenie_tovara_v_roznitsu\image203.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_postuplenie_tovara_v_roznitsuimage203.png|
 
 Как и в случае перемещения товара с основного склада, документ не будет
 проведен, если для поступившего товара не установлены розничные цены.
@@ -2396,7 +2396,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Настройки**. С помощью кнопки **Создать** в список добавляется касса с
 типом **Фискальный регистратор**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image205.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage205.png|
 
 Также для кассы ККМ указывается структурная единица, подразделение
 организации и счет учета. Если флажок **Без подключения** не
@@ -2420,12 +2420,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 ■ нажать появившуюся кнопку **Открыть смену**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image207.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage207.png|
 
 Далее в течение смены он регистрирует в учетной системе документы **Чек
 ККМ**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image209.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage209.png|
 
 Продажа товара осуществляется с территории торговой точки (товар
 расположен на полках) по ценам торговой точки с возможностью применения
@@ -2445,7 +2445,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 работы информация об эквайринговом терминале заносится в одноименный
 справочник.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image211.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage211.png|
 
 В табличном поле формы терминала указывается перечень платежных карт, с
 которыми может работать устройство.
@@ -2463,7 +2463,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 документом **Чек ККМ на возврат**. Для создания чека следует нажать
 кнопку **Возврат** на командной панели журнала документов **Чеки ККМ**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image213.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage213.png|
 
 Возврат товара, проданного в другой день, оформляется документом
 **Приходная накладная** с видом операции **Возврат от покупателя**.
@@ -2477,7 +2477,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В конце смены продавец-кассир снимает Z-отчет, регистрирующий факт
 закрытия смены, с помощью кнопки командной панели **Закрыть смену**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image215.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage215.png|
 
 Затем кассир сдает выручку в операционную кассу, а кассир операционной
 кассы принимает ее и делает записи в журнале кассира-операциониста.
@@ -2522,7 +2522,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Выручка принимается в учетную систему документом **Поступление в
 кассу**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_v__tetradi_\image217.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_v__tetradi_image217.png|
 
 Продажи оформляются документом **Отчет о розничных продажах** на
 основании записей в «тетради».
@@ -2536,7 +2536,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 проведенной в торговой точке (уменьшения количества товаров в результате
 состоявшихся продаж).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsiey\image219.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsieyimage219.png|
 
 Торговые точки с суммовым учетом
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2572,13 +2572,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 цен**. Счет учета в рознице, счет учета наценки определяются на вкладке
 **Дополнительно**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image221.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage221.png|
 
 В начале работы товары передаются с оптового склада в торговую точку с
 суммовым учетом. Для этого в учетной системе оформляется документ
 **Перемещение запасов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image223.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage223.png|
 
 В результате производится списание товаров с оптового склада и
 возникновение остатка денег в торговой точке в продажных (розничных)
@@ -2592,7 +2592,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 этом в табличном поле **Запасы** регистрируется фактическое количество
 товара в торговой точке, новая и старая розничные цены.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image225.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage225.png|
 
 Документ **Инвентаризация запасов** в данном случае используется только
 для подготовки бланка с ценами (товары в магазине пересчитываются,
@@ -2623,7 +2623,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 На панели **Управление эквайринговым терминалом** расположены две группы
 кнопок – **Основные операции** и **Дополнительные операции**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image227.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniemimage227.png|
 
 С помощью кнопок панели кассир может производить различные операции,
 связанные с оплатой товара по платежной карте. Результат (напечатанный
@@ -2633,7 +2633,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 нажатию которых можно вывести на печать отчеты фискального регистратора
 с гашением и без.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image229.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniemimage229.png|
 
 Отчеты раздела «Продажи»
 ------------------------
@@ -2644,7 +2644,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 продажам**. Панель отчетов раздела содержит в себе команды открытия
 вариантов отчетов раздела, распределенных по подсистемам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_\image231.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_image231.png|
 
 Команда панели **Все отчеты…** открывает форму выбора и настройки панели
 отчетов. В левой части формы расположено дерево разделов и групп
@@ -2674,7 +2674,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 В поле **Автор** можно выбрать автора варианта отчета из списка.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_\image233.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_image233.png|
 
 Форма настройки позволяет сформировать любой отчет из дерева, а также
 определить, какие из отчетов будут доступны для быстрого выбора, т. е.
@@ -2686,7 +2686,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Отчет **Выполнение** **заказов покупателей** позволяет проанализировать
 состав и ход выполнения заказов покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateley\image235.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateleyimage235.png|
 
 Отчет сгруппирован по заказам. Для каждого заказа рассчитывается
 недостающее (не обеспеченное источниками) количество позиций
@@ -2715,7 +2715,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 данные об остатках, резервах и свободных остатках товаров по предприятию
 в целом.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatki\image237.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatkiimage237.png|
 
 Оплата заказов покупателей
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2723,7 +2723,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 С помощью отдельного отчета можно проанализировать оплату по заказам
 покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateley\image239.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateleyimage239.png|
 
 Данные отчета группируются по контрагентам, организациям и договорам.
 
@@ -2732,7 +2732,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 В отчет выводятся сведения об оплате контрагентами выставленных счетов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetov\image241.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetovimage241.png|
 
 Данные отчета группируются по покупателям и договорам.
 
@@ -2750,7 +2750,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 учетом срока оплаты от покупателя, указанного в договоре контрагента или
 в настройках параметров, если срок оплаты в договоре не задан.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_debitorskaya_zadolzhennost_po_srokam\image243.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_debitorskaya_zadolzhennost_po_srokamimage243.png|
 
 Отчет формируется на определенную дату или на текущую, если дата не
 задана.
@@ -2769,7 +2769,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 отгруженное, зарезервированное и количество, которое осталось отгрузить
 по заказу.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_otgruzka_i_oplata_po_zakazam_pokupateley\image245.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_otgruzka_i_oplata_po_zakazam_pokupateleyimage245.png|
 
 Взаиморасчеты
 ~~~~~~~~~~~~~
@@ -2778,7 +2778,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 контрагентами (покупателями, поставщиками и др.) за выбранный период
 времени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image247.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyiimage247.png|
 
 Сведения отображаются с группировкой по контрагентам, договорам и
 заказам. Для данного отчета предусмотрены три режима – **Ведомость по
@@ -2787,7 +2787,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 отчет выводятся только данные об остатках взаиморасчетов на выбранную
 дату.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image249.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyiimage249.png|
 
 Денежные средства в кассах ККМ
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2795,7 +2795,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В отчет выводится информация о денежных средствах в кассах ККМ: приходе,
 расходе, остатках.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_denezhnyie_sredstva_v_kassakh_kkm\image251.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_denezhnyie_sredstva_v_kassakh_kkmimage251.png|
 
 Отчет может быть сформирован в четырех вариантах: **Ведомость**,
 **Ведомость в валюте**, **Остатки**, **Остатки в валюте**. Вариант
@@ -2811,7 +2811,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 розничной точке. В отчет выводятся данные по начальным и конечным
 остаткам, приходу, расходу.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_summovoy_uchet_v_roznichnoy_tochke\image253.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_summovoy_uchet_v_roznichnoy_tochkeimage253.png|
 
 Отчет может быть сформирован в четырех вариантах: **Ведомость**,
 **Ведомость в валюте**, **Остатки**, **Остатки в валюте**.
@@ -2855,12 +2855,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Доступ к справочнику осуществляется по гиперссылке панели навигации в
 разделах **Продажи**, **Закупки**, **Сервис** и **Производство**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image257.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklaturaimage257.png|
 
 Все позиции в справочнике **Номенклатура** классифицируются по группам,
 список которых содержится в справочнике **Номенклатурные группы**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image259.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklaturaimage259.png|
 
 Ввод основной информации о номенклатуре
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2868,7 +2868,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Редактирование и ввод новой информации об элементе справочника (позиции
 номенклатуры) производятся в отдельной форме (карточке товара).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3156616309_vvod_osnovnoy_informatsii_o_nomenklature\image261.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3156616309_vvod_osnovnoy_informatsii_o_nomenklatureimage261.png|
 
 В карточке указываются краткое и полное (для печатных форм документов)
 наименования товара, а также его тип. В прикладном решении предусмотрены
@@ -2950,7 +2950,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 появляется в карточке номенклатуры при нажатии кнопки **Записать** или
 **Записать и закрыть**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapas\image263.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapasimage263.png|
 
 По гиперссылке **Еще…**, расположенной на панели навигации формы,
 указывается дополнительная информация:
@@ -2965,7 +2965,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 ■ с помощью гиперссылки **Управление запасами** задается максимальный и
 минимальный уровень запаса для выбранного товара.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapas\image265.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapasimage265.png|
 
 Услуга
 ^^^^^^
@@ -2975,7 +2975,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 карточки похож на предыдущий, но некоторые группы реквизитов удалены,
 так как применительно к услугам не имеют смысла.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_usluga\image267.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_uslugaimage267.png|
 
 Порядок заполнения реквизитов на закладке **Основные параметры** тот же,
 что и в предыдущем случае, с той разницей, что отсутствует реквизит
@@ -2988,7 +2988,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 работах, выполняемых компанией. По составу реквизитов карточки типа
 **Услуга** и **Работа** практически идентичны.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_rabota\image269.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_rabotaimage269.png|
 
 Переключатель **Способ расчета стоимости работ** на вкладке **Основные
 параметры** определяет, как рассчитывается стоимость работы в
@@ -3006,7 +3006,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 о технологических операциях процессов производства продукции и
 выполнения работ.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_operatsiya\image271.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_operatsiyaimage271.png|
 
 Для технологических операций не указывается ставка НДС, срок,
 направление деятельности, но указывается счет учета затрат. На закладке
@@ -3022,7 +3022,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 в отличие от операции, не указывается ни счет учета затрат, ни параметры
 хранения и закупки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_vid_rabot\image273.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_vid_rabotimage273.png|
 
 Классификатор единиц измерения
 ------------------------------
@@ -3034,7 +3034,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 ввод новых элементов производятся непосредственно в форме списка
 справочника. При заполнении можно воспользоваться
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniya\image275.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniyaimage275.png|
 
 Справочник содержит два предопределенных значения единицы измерения:
 **Штука** и **Час**.
@@ -3058,7 +3058,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 Каждый элемент справочника содержит сведения о некоторой ячейке склада.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_sklada\image277.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_skladaimage277.png|
 
 Если в настройках учетной политики установлен учет по компании, то
 управление складскими запасами в масштабах небольшой фирмы производится
@@ -3219,7 +3219,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 может являться документом, на основании которого производится оплата и
 получение товара.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image279.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage279.png|
 
 Список заказов содержит информацию о выполнении заказа, состоянии
 заказа, о проценте оплаты по заказу.
@@ -3233,7 +3233,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 Степень отгрузки и оплаты обозначается с помощью круговых диаграмм.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image281.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage281.png|
 
 При оформлении документа **Заказ поставщику** указывается дата
 исполнения заказа, контрагент – поставщик товаров и договор с ним. В
@@ -3252,14 +3252,14 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 который должен быть выплачен не позднее указанной даты. Суммы оплаты
 (процента) и НДС будут рассчитаны автоматически.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image283.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage283.png|
 
 Данные об оплате могут быть представлены в виде списка, который
 позволяет запланировать оплату в несколько этапов. Для его просмотра и
 редактирования необходимо установить в нажатое состояние кнопку
 **Список**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image285.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage285.png|
 
 Счет поставщика
 ---------------
@@ -3273,7 +3273,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ содержит информацию о заказанных товарах и услугах, их
 количестве и цене.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_postavschika\image287.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_postavschikaimage287.png|
 
 Также как и в заказе, в счете поставщика можно запланировать оплату,
 установив одноименный флажок и заполнив появившуюся закладку **Платежный
@@ -3290,7 +3290,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 документа **Заказ поставщику**. С помощью приходной накладной можно
 регистрировать цены поставщиков.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image289.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage289.png|
 
 В приходной накладной указывается тип операции **Поступление от
 поставщика**, вводится информация о поставщике и договоре с ним, склад,
@@ -3310,13 +3310,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 документа, подразделение-исполнителя и сотрудника, ответственного за
 ввод документа.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image291.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage291.png|
 
 Список документов позволяет отражать факт поступления товаров и услуг
 (расходов) от поставщиков, в том числе и по открытым заказам
 поставщикам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image293.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage293.png|
 
 Документы можно оформить как по одному, так и по нескольким выделенным
 заказам поставщиков.
@@ -3332,7 +3332,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 создаваемый на основании приходной накладной на поступление товара. В
 документе указывается тип операции **Возврат поставщику**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_vozvrat_tovarov_postavschiku\image295.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_vozvrat_tovarov_postavschikuimage295.png|
 
 Состав реквизитов расходной накладной на возврат поставщику аналогичен
 составу реквизитов приходной накладной. Документ содержит информацию о
@@ -3345,7 +3345,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ **Счет-фактура полученный** может быть создан на основании
 приходной накладной.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_faktura_poluchennyiy\image297.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_faktura_poluchennyiyimage297.png|
 
 Документ предназначен для регистрации полученных счетов-фактур от
 поставщиков, а также для учета номеров грузовых таможенных деклараций.
@@ -3371,7 +3371,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Список документов доступен по гиперссылке **Перемещения по ячейкам**
 подраздела **Склад** раздела **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_po_yacheykam\image299.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_po_yacheykamimage299.png|
 
 В документе указываются начальный и конечный пункты назначения
 перемещаемого товара с точностью до ячейки склада. Возможны два вида
@@ -3394,7 +3394,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Список документов доступен по гиперссылке **Перемещения запасов**
 подраздела **Склад** раздела **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_zapasov\image301.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_zapasovimage301.png|
 
 В качестве склада-отправителя указывается склад, с которого производится
 отгрузка товара, и, при необходимости, его ячейка (реквизиты
@@ -3470,7 +3470,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 документ **Дополнительные расходы**. Документ доступен по одноименной
 гиперссылке панели навигации раздела **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_dopolnitelnyie_raskhodyi\image303.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_dopolnitelnyie_raskhodyiimage303.png|
 
 В табличном поле документа указываются приходные накладные, которыми
 оформлялся приход товаров, сопровождавшийся дополнительными расходами, и
@@ -3486,7 +3486,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 получение товаров и доступен по гиперссылке панели навигации
 **Доверенности** в группе **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennost\image305.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennostimage305.png|
 
 В документе указывается поставщик товаров и физическое лицо, которому
 доверяется их получение. В реквизите **Основание** можно указать
@@ -3500,7 +3500,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 доступен по команде панели навигации **Складские акты** в подразделе
 **Излишки и недостачи** раздела **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_izlishki_i_nedostachi\image307.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_izlishki_i_nedostachiimage307.png|
 
 Инвентаризация запасов
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -3512,7 +3512,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ доступен по команде панели навигации **Инвентаризации запасов**
 в группе **Излишки и недостачи** раздела **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_inventarizatsiya_zapasov\image309.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_inventarizatsiya_zapasovimage309.png|
 
 В документе обязательно указывается склад или производственное
 подразделение, в котором проводится инвентаризация. Если в системе
@@ -3569,7 +3569,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 (объекты, которые отражены на панели навигации) с помощью кнопки
 **Добавить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_oprikhodovanie_zapasov\image311.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_oprikhodovanie_zapasovimage311.png|
 
 В документе помимо основных реквизитов (данных об организации, от имени
 которой оформляется документ, о структурной единице и ячейке, в которую
@@ -3609,7 +3609,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 панель навигации) в правую часть (объекты, которые отражены на панели
 навигации) с помощью кнопки **Добавить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_spisanie_zapasov\image313.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_spisanie_zapasovimage313.png|
 
 Форма документа заполняется аналогично форме документа **Оприходование
 запасов** с той разницей, что в данном случае товар не приходуется, а
@@ -3635,7 +3635,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Для отражения в учете поступления товара на комиссию используется
 документ **Приходная накладная** с видом операции **Прием на комиссию**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3278478469_priem_tovarov_na_komissiyu\image315.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3278478469_priem_tovarov_na_komissiyuimage315.png|
 
 В табличном поле для каждого товара можно указать документ заказа, в
 рамках которого происходит прием. Товар, принятый на комиссию, может
@@ -3658,7 +3658,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ **Отчет комитенту** предназначен для отчета перед комитентом за
 реализованные товары и расчета комиссионного вознаграждения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3278478469_otchet_komitentu_o_prodazhakh\image317.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3278478469_otchet_komitentu_o_prodazhakhimage317.png|
 
 В табличное поле закладки **Запасы** включены все сведения из табличного
 поля приходной накладной, которой оформлялся прием товаров на комиссию.
@@ -3702,7 +3702,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 к нему имеется из группы **Переработка** раздела **Закупки** по
 гиперссылке **Отчеты переработчиков**. Форма документа имеет вид:
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image319.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage319.png|
 
 В документе указывается информация о переработчике и заключенном с ним
 договоре. В группу реквизитов **Продукция** вводятся данные о продукции,
@@ -3716,12 +3716,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 номенклатуры, произведенной в результате переработки. Отходы приходуются
 по нулевой себестоимости.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image321.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage321.png|
 
 На закладке **Услуги** указываются сведения об оказанных переработчиком
 услугах: наименование услуги, ее стоимость и сумма НДС.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image323.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage323.png|
 
 Реализация товаров с ордерного склада
 -------------------------------------
@@ -3748,7 +3748,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Документ может быть введен на основании заказа покупателя, счета на
 оплату, приходной накладной.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_realizatsiya_tovarov_s_ordernogo_sklada\image325.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_realizatsiya_tovarov_s_ordernogo_skladaimage325.png|
 
 В табличном поле документа указываются сведения о реализуемой
 номенклатуре, в том числе ранее введенный документ **Заказ покупателя**,
@@ -3763,12 +3763,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 расположена кнопка **Подобрать**, по которой вызывается диалог
 редактирования табличной части **Зачет предоплаты**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyi\image327.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyiimage327.png|
 
 Диалог предназначен для ввода сведений о зачете авансов, полученных
 ранее от покупателя.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyi\image329.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyiimage329.png|
 
 Поле в верхней части диалога (группа **Авансы**) автоматически
 заполняется списком незачтенных авансов данного покупателя. В нижней
@@ -3792,7 +3792,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 которые можно добавить на панель навигации) в правую часть (объекты,
 которые отражены на панели навигации) с помощью кнопки **Добавить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_order\image331.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_orderimage331.png|
 
 В табличное поле формы документа вводится список номенклатурных позиций,
 отгруженных с ордерного склада. Для каждой позиции указывается
@@ -3815,7 +3815,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 списанные со склада с оформлением финансовых документов реализации.
 Схема документооборота при этом будет аналогична поступлению.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov_na_ordernyiy_sklad\image333.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov_na_ordernyiy_skladimage333.png|
 
 В документе на закладке **Товары** указывается стандартная информация о
 поступивших запасах – наименование, характеристика, количество, цена,
@@ -3840,7 +3840,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 которые можно добавить на панель навигации) в правую часть (объекты,
 которые отражены на панели навигации) с помощью кнопки **Добавить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_order\image335.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_orderimage335.png|
 
 В табличное поле документа вводится список номенклатурных позиций,
 поступивших на ордерный склад. Для каждой позиции указывается
@@ -3858,7 +3858,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 обработки производится по гиперссылке **Расчет потребностей** раздела
 **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image337.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage337.png|
 
 Форма обработки содержит дерево номенклатурных позиций и сведений о
 каждой из них.
@@ -3880,7 +3880,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Способ пополнения, который является основным для номенклатуры, имеет
 представление «…(основной)».
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image339.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage339.png|
 
 Для каждой номенклатурной позиции в колонке **Характеристика/Источник**
 указывается характеристика номенклатуры с расшифровкой по поставщику.
@@ -3904,7 +3904,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 происходит автоматическое формирование заказов, включающих отмеченные
 флажками позиции номенклатуры.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image341.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage341.png|
 
 Заказы формируются в соответствии со следующими правилами:
 
@@ -3923,7 +3923,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 поступления в табличной части**), объединяются в один заказ.
 
 С помощью кнопок командной панели
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image343.png| можно
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage343.png| можно
 провести или отменить проведение выбранного в списке заказа. Также
 ошибочно сформированный заказ может быть помечен на удаление.
 
@@ -3934,7 +3934,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 печать прайс-листа контрагента с помощью обработки **Прайс-листы
 контрагентов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image345.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentovimage345.png|
 
 Цены регистрируются в системе путем проведения документа **Приходная
 накладная** с указанным видом цен контрагента и установленным флажком
@@ -3942,7 +3942,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 в окне обработки **Прайс-листы контрагентов** и могут быть изменены с
 помощью диалога **Цена номенклатуры контрагентов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image347.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentovimage347.png|
 
 Прикладное решение сохраняет информацию обо всех пользователях,
 изменявших цену номенклатуры или номенклатуры контрагента.
@@ -3974,7 +3974,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Все отчеты раздела **Закупки** расположены на отдельной панели,
 вызываемой командой **Отчеты по закупкам и запасам**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_otchetyi_razdela__zakupki_\image349.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_otchetyi_razdela__zakupki_image349.png|
 
 Потребность в запасах
 ~~~~~~~~~~~~~~~~~~~~~
@@ -3983,7 +3983,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 материалах, необходимых для производства продукции (как из собственного,
 так и из давальческого сырья) и для передачи в переработку.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakh\image351.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakhimage351.png|
 
 Отчет демонстрирует наличие потребности в номенклатуре и источники ее
 обеспечения, показывая необеспеченную потребность.
@@ -4006,7 +4006,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 отгрузки номенклатуры в количественном выражении за выбранный период
 времени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_grafik_dvizheniya_zapasov\image353.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_grafik_dvizheniya_zapasovimage353.png|
 
 График можно вывести с детализацией по датам.
 
@@ -4020,7 +4020,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 с детализацией до номенклатуры и имеет варианты **Ведомость** и
 **Остатки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_razmeschenie_zakazov\image355.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_razmeschenie_zakazovimage355.png|
 
 Оборачиваемость запасов
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -4033,7 +4033,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Средний срок хранения** рассчитывается как отношение количества дней
 периода к оборачиваемости запасов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oborachivaemost_zapasov\image357.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oborachivaemost_zapasovimage357.png|
 
 Управлять точностью расчета показателя можно при помощи установки
 периодичности расчета. Формировать отчет с неустановленным началом и
@@ -4052,7 +4052,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 Дополнительно отчет выводит информацию об общей сумме задолженности,
 сумме просроченной задолженности и о количестве дней просрочки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_kreditorskaya_zadolzhennost_po_srokam\image359.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_kreditorskaya_zadolzhennost_po_srokamimage359.png|
 
 Отчет формируется на определенную дату или на текущую, если дата не
 задана.
@@ -4070,13 +4070,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 указывается перечисленная в нем номенклатура и обороты по ней: **Нач.
 остаток** и **Кон. остаток**, **Заказано** и **Поступило**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image361.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikamimage361.png|
 
 В режиме **Остатки** отчет содержит информацию о распределении остатков
 заказов на закупку на указанную дату. Данные группируются по
 поставщикам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image363.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikamimage363.png|
 
 Оплата заказов
 ~~~~~~~~~~~~~~
@@ -4085,7 +4085,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 поставщикам. Отчет доступен по гиперссылке **Оплата заказов** группы
 отчетов **Взаиморасчеты**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazov\image365.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazovimage365.png|
 
 Данные отчета группируются по поставщикам, организациям и договорам.
 
@@ -4097,7 +4097,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В отчет выводятся сведения об оплате счетов поставщиков. Отчет доступен
 по гиперссылке **Оплата счетов** группы отчетов **Взаиморасчеты**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetov\image367.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetovimage367.png|
 
 Данные отчета группируются по поставщикам и договорам.
 
@@ -4112,7 +4112,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 информация о количестве и сумме закупок; данные группируются по
 номенклатуре, заказам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakupki\image369.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakupkiimage369.png|
 
 Расчеты с поставщиками
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -4126,7 +4126,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 компании с поставщиками, включая заказы и договоры, в рамках которых
 заключались сделки между компанией и контрагентами.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_raschetyi_s_postavschikami\image371.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_raschetyi_s_postavschikamiimage371.png|
 
 Отчет формируется на заданный период. Данные отчета группируются по
 контрагентам, договорам и заказам.
@@ -4160,13 +4160,13 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 остатках на складах организации и у контрагентов. Данные отчета
 представлены в количественном и суммовом выражении.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi\image373.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyiimage373.png|
 
 Отчет может формироваться в двух режимах – **Ведомость** и **Остатки**.
 В режиме **Остатки** в отчете не отображается информация по приходу и
 расходу и выводятся только конечные остатки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi\image375.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyiimage375.png|
 
 Запасы в разрезе ГТД
 ~~~~~~~~~~~~~~~~~~~~
@@ -4179,12 +4179,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 присвоен номер ГТД, в выбранном месте хранения. Данные отчета
 представлены в количественном выражении.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtd\image377.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtdimage377.png|
 
 В режиме **Остатки** в отчете не отображается информация по приходу и
 расходу, выводятся только конечные остатки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtd\image379.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtdimage379.png|
 
 Запасы принятые
 ~~~~~~~~~~~~~~~
@@ -4193,7 +4193,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 комиссию, в переработку и на ответственное хранение. Отчет доступен по
 одноименной ссылке из группы отчетов **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyie\image381.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyieimage381.png|
 
 В отчете отображается информация о начальных и конечных остатках запасов
 контрагентов на складах предприятия. Данные отчета представлены в
@@ -4203,7 +4203,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В режиме **Остатки** в отчете не отображается информация по приходу и
 расходу и выводятся только конечные остатки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyie\image383.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyieimage383.png|
 
 Запасы переданные
 ~~~~~~~~~~~~~~~~~
@@ -4213,7 +4213,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 контрагентам. Отчет доступен по одноименной ссылке из группы отчетов
 **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_peredannyie\image385.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_peredannyieimage385.png|
 
 В отчете отображается информация о начальных и конечных остатках запасов
 у контрагентов. Данные отчета представлены в количественном и суммовом
@@ -4231,7 +4231,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 В отчете не отображается информация по приходу и расходу, выводятся
 только конечные остатки товаров по местам хранения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladu\image387.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladuimage387.png|
 
 Поступление и оплата по заказам
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4240,7 +4240,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 оплаты и поступления. Доступен по кнопке **Еще – Все отчеты** раздела
 **Закупки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_postuplenie_i_oplata_po_zakazam\image389.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_postuplenie_i_oplata_po_zakazamimage389.png|
 
 Данные группируются по номенклатуре и заказам поставщикам.
 
@@ -4265,7 +4265,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 остатках на складах организации и у контрагентов-переработчиков. Данные
 отчета представлены в количественном и суммовом выражении.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladam\image391.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladamimage391.png|
 
 При использовании ордерной схемы по соответствующим складам можно
 посмотреть информацию о количестве запасов, подлежащих списанию
@@ -4300,7 +4300,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 обуви, ремонт одежды, автомойка, и других работ и услуг, для которых
 характерен короткий производственный цикл.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image393.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage393.png|
 
 Список заказов-нарядов содержит информацию о выполнении заказа-наряда,
 состоянии заказа-наряда, проценте оплаты по заказу-наряду.
@@ -4326,7 +4326,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 закладке. Планирование ресурсов является опциональным и настраивается в
 настройках учета **Предприятие** раздела **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image395.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage395.png|
 
 Учет материальных и трудовых затрат возможен только для номенклатурных
 позиций с типом **Работа**. Для номенклатурных позиций с типом
@@ -4336,7 +4336,7 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 принятых от заказчика для выполнения заказа. Указанные сведения носят
 информационный характер и не отражаются в регистрах по учету запасов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image397.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage397.png|
 
 Списание материальных затрат на заказ-наряд и начисление зарплаты
 осуществляются для выполненного и закрытого наряда на дату финиша.
@@ -4365,12 +4365,12 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 **Предприятие** раздела **Настройки** установлен флажок **Планировать
 загрузку ресурсов предприятия**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiya\image399.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiyaimage399.png|
 
 Ресурс может принадлежать к одному или нескольким видам ресурсов. Каждый
 ресурс всегда принадлежит специальному виду ресурсов – **Все ресурсы**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiya\image401.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiyaimage401.png|
 
 Ресурс может быть связан с сотрудником, бригадой или ни с чем не связан.
 
@@ -4391,7 +4391,7 @@ defined.**). В случае наличия отклонений от графи
 проанализировать календарный план выполнения работ и оказания услуг на
 заданный период (день, неделю, месяц).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_plan_grafik_rabot__uslug\image403.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_plan_grafik_rabot__uslugimage403.png|
 
 Параметры отображения устанавливаются в форме настроек планировщика,
 вызываемой по нажатию кнопки **Настройки** в правой части командной
@@ -4406,7 +4406,7 @@ defined.**). В случае наличия отклонений от графи
 щелкнув мышью в календаре на строке с нужным временем в поле выбранного
 ресурса.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zagruzka_resursov_predpriyatiya\image405.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zagruzka_resursov_predpriyatiyaimage405.png|
 
 Планирование работ с использованием заказов
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4419,14 +4419,14 @@ defined.**). В случае наличия отклонений от графи
 указать плановые даты начала и окончания работ в полях **Старт** и
 **Финиш**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazov\image407.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazovimage407.png|
 
 При установке флажка **Запланировать оплату** в форме документа
 появляется закладка **Платежный календарь**, где можно запланировать
 оплату по заказу (указать планируемые даты оплат, процент, который
 должен быть выплачен не позднее указанной даты, и т. д.).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazov\image409.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazovimage409.png|
 
 После выполнения работ нужно установить заказу статус **Выполнен**,
 зачесть предоплату и ввести на основании заказа-наряда поступление в
@@ -4438,7 +4438,7 @@ defined.**). В случае наличия отклонений от графи
 Все отчеты раздела **Сервис** расположены на отдельной панели,
 вызываемой командой **Отчеты по сервису**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3979294552_otchetyi_razdela__servis_\image411.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3979294552_otchetyi_razdela__servis_image411.png|
 
 Задания на работу
 ~~~~~~~~~~~~~~~~~
@@ -4450,7 +4450,7 @@ defined.**). В случае наличия отклонений от графи
 Отчет предназначен для проведения план-фактного анализа по видам работ.
 Для внешних заданий в отчете отображаются заказы контрагентов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_zadaniya_na_rabotu\image413.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_zadaniya_na_rabotuimage413.png|
 
 .. _выполнение-заказов-покупателей-1:
 
@@ -4460,7 +4460,7 @@ defined.**). В случае наличия отклонений от графи
 Отчет позволяет проанализировать состав и ход выполнения `заказов
 покупателей <v8mnghelp://help/topics/v8config/v8cfgHelp/mdobject/id9133d1ee-54e6-4556-8f42-a94010c0b021/038b5c85-fb1c-4082-9c4c-e69f8928bf3a>`__.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_vyipolnenie_zakazov_pokupateley\image415.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_vyipolnenie_zakazov_pokupateleyimage415.png|
 
 .. _оплата-заказов-1:
 
@@ -4471,7 +4471,7 @@ defined.**). В случае наличия отклонений от графи
 покупателей <v8mnghelp://help/topics/v8config/v8cfgHelp/mdobject/id9133d1ee-54e6-4556-8f42-a94010c0b021/038b5c85-fb1c-4082-9c4c-e69f8928bf3a>`__
 в части оплаты.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazov\image417.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazovimage417.png|
 
 Отчет заказчику
 ~~~~~~~~~~~~~~~
@@ -4479,7 +4479,7 @@ defined.**). В случае наличия отклонений от графи
 Отчет отображает информацию о работах, выполненных под заказ-наряд или
 под заказ покупателя.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchiku\image419.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchikuimage419.png|
 
 Глава 6
 
@@ -4501,7 +4501,7 @@ defined.**). В случае наличия отклонений от графи
 на панель навигации) в правую часть (объекты, которые отражены на панели
 навигации) с помощью кнопки **Добавить >**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_proizvodstvo\image421.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_proizvodstvoimage421.png|
 
 Состав продукции и технология ее выпуска
 ----------------------------------------
@@ -4513,7 +4513,7 @@ defined.**). В случае наличия отклонений от графи
 **Номенклатура** и доступном из карточки товара с типом **Запас** или
 **Работа**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image423.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage423.png|
 
 Форма элемента справочника **Спецификации** включает две закладки –
 **Состав** (для ввода списка материалов и полуфабрикатов, служащих
@@ -4525,11 +4525,11 @@ defined.**). В случае наличия отклонений от графи
 доля стоимости исходной номенклатуры, приходящаяся на получаемую в
 результате разборки, разделки продукцию.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image425.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage425.png|
 
 Закладка **Операции** заполняется номенклатурой с типом **Операции**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image427.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage427.png|
 
 В колонке **Количество продукции** указывается количество номенклатуры,
 на которое составлены нормы расхода, указанные в операциях данной
@@ -4569,7 +4569,7 @@ defined.**). В случае наличия отклонений от графи
 на основании документа **Заказ покупателя** или другого заказа на
 производство.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zakazyi_na_proizvodstvo\image429.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zakazyi_na_proizvodstvoimage429.png|
 
 При оформлении документа **Заказ на производство**:
 
@@ -4616,12 +4616,12 @@ defined.**). В случае наличия отклонений от графи
 о ресурсах предприятия, используемых для выполнения заказов-нарядов и
 заказов на производство.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiya\image433.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiyaimage433.png|
 
 Ресурс может принадлежать к одному или нескольким видам ресурсов. Каждый
 ресурс всегда принадлежит специальному виду ресурсов – **Все ресурсы**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiya\image435.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiyaimage435.png|
 
 Ресурс может быть связан с сотрудником, бригадой или ни с чем не связан.
 
@@ -4642,7 +4642,7 @@ defined.**). В случае наличия отклонений от графи
 проанализировать календарный план выпуска продукции и полуфабрикатов на
 заданный период (день, неделю, месяц).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_plan_grafik_proizvodstva\image437.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_plan_grafik_proizvodstvaimage437.png|
 
 Параметры отображения устанавливаются в форме настроек планировщика,
 вызываемого по нажатию кнопки **Настройки** в правой части командной
@@ -4659,7 +4659,7 @@ defined.**). В случае наличия отклонений от графи
 производство**, дважды щелкнув мышью в календаре на строке с нужным
 временем в поле выбранного ресурса.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zagruzka_resursov_predpriyatiya\image439.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zagruzka_resursov_predpriyatiyaimage439.png|
 
 Планирование производства с использованием заказов
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4674,7 +4674,7 @@ defined.**). В случае наличия отклонений от графи
 ■ указать плановые даты начала и окончания работ в полях **Старт** и
 **Финиш**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_planirovanie_proizvodstva_s_ispolzovaniem_zakazov\image441.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_planirovanie_proizvodstva_s_ispolzovaniem_zakazovimage441.png|
 
 Планирование работ сотрудников
 ------------------------------
@@ -4701,7 +4701,7 @@ defined.**). В случае наличия отклонений от графи
 доступного по одноименной команде на панели навигации в группе
 **Справочники**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_brigadyi\image443.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_brigadyiimage443.png|
 
 В форме элемента справочника задается наименование бригады и ее состав –
 сотрудники, выбираемые из одноименного справочника.
@@ -4719,7 +4719,7 @@ defined.**). В случае наличия отклонений от графи
 Журнал документов **Сдельные наряды** доступен по одноименной команде на
 панели навигации раздела **Производство** в группе **Задания и наряды**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyi\image445.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyiimage445.png|
 
 Документ содержит сведения о подрядных работах и исполнителях, которым
 поручено выполнение этих работ. В качестве исполнителя может выступать
@@ -4729,7 +4729,7 @@ defined.**). В случае наличия отклонений от графи
 указанную бригаду. Заполнение можно произвести автоматически по данным
 справочника **Бригады**, нажав кнопку **Заполнить состав бригады**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyi\image447.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyiimage447.png|
 
 При установке флажка **Закрыт** документ начисляет заработную плату
 исполнителям на дату закрытия.
@@ -4766,7 +4766,7 @@ defined.**). В случае наличия отклонений от графи
 (услуге), которая должна быть выполнена (оказана) в рамках данного
 заказа.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vneshnee_zadanie\image449.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vneshnee_zadanieimage449.png|
 
 В группе реквизитов **Планирование** определяются параметры самого
 задания, включая планируемое время выполнения. Некоторые параметры,
@@ -4781,7 +4781,7 @@ defined.**). В случае наличия отклонений от графи
 содержит группы реквизитов **Заказчик, работа (услуга)**. В остальном
 документ заполняется так же, как и для внешнего задания.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vnutrennee_zadanie\image451.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vnutrennee_zadanieimage451.png|
 
 .. _календарь-сотрудника-1:
 
@@ -4798,7 +4798,7 @@ defined.**).
 Документ **Учет времени** предназначен для регистрации факта выполнения
 работ по документу **Задание на работу** или фиксации выработки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_uchet_vremeni\image453.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_uchet_vremeniimage453.png|
 
 Документ содержит информацию о времени, потраченном сотрудником на
 выполнение выданных заданий в течение рабочей недели. Для внешних
@@ -4819,7 +4819,7 @@ defined.**).
 заказу регистрируется с помощью документа **Производство**, который
 вводится на основании документа **Заказ на производство**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image455.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage455.png|
 
 В документе **Производство** указываются сведения о произведенной
 (разделанной) продукции и комплектующих, использованных для выпуска.
@@ -4828,7 +4828,7 @@ defined.**).
 **Распределение затрат**, например, сразу за день или смену. Если
 документ создается на основании заказа на производство, то его можно
 заполнить автоматически по нажатию кнопки
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image431.png| справа
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage431.png| справа
 от реквизита **Основание**.
 
 Автоматическое заполнение можно произвести и по спецификации выпущенной
@@ -4844,7 +4844,7 @@ defined.**).
 Список документов позволяет отражать факт выпуска продукции, в том числе
 и по открытым заказам на производство.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image457.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage457.png|
 
 Документы можно оформить как по одному, так и по нескольким выделенным
 заказам на производство.
@@ -4886,7 +4886,7 @@ defined.**).
 необходимые для его выполнения, поступили на основной склад предприятия
 в соответствующую ячейку.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsii\image459.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsiiimage459.png|
 
 Операция сборки продукции (например, кондиционера) отражается документом
 **Производство** с видом операции **Сборка**. В документе в реквизитах
@@ -4905,7 +4905,7 @@ defined.**).
 **Подразделения** на панели **Нормативно-справочная информация** раздела
 **Предприятие**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsii\image461.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsiiimage461.png|
 
 В настройках указываются склады-получатели и целевые ячейки для
 поступления запасов.
@@ -4927,7 +4927,7 @@ defined.**).
 выпущенной продукции, выполненных работах. Данные могут быть введены
 автоматически по нажатию кнопки **Заполнить по выпуску**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__produktsiya_\image463.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__produktsiya_image463.png|
 
 Закладка «Запасы»
 ~~~~~~~~~~~~~~~~~
@@ -4937,7 +4937,7 @@ defined.**).
 работ. Поле может быть заполнено автоматически с помощью команд меню
 **Заполнить – По нормативам** или **По остаткам**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zapasyi_\image465.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zapasyi_image465.png|
 
 Табличное поле **Распределение запасов** содержит информацию об
 отнесении материальных затрат на выпуск продукции (работ), указанной на
@@ -4952,7 +4952,7 @@ defined.**).
 продукции, выполнения работы. Оно может быть заполнено автоматически по
 нажатию кнопки **Заполнить по остаткам**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zatratyi_\image467.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zatratyi_image467.png|
 
 Табличное поле **Распределение затрат** содержит информацию об отнесении
 затрат на выпуск продукции (работ), зависящую от содержимого верхнего
@@ -5018,14 +5018,14 @@ defined.**).
 Также для каждого продукта или полуфабриката устанавливается цена,
 скидка и спецификация, по которой он изготавливался.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image469.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage469.png|
 
 В табличном поле закладки **Материалы** указывается информация о
 затраченных материалах и сырье, принятых в переработку. Поскольку
 давальческие материалы не являются нашей собственностью, необходимо
 указать партии материалов со статусом **Давальческое сырье**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image471.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage471.png|
 
 Закладка **Отходы** предназначена для ввода списка отходов,
 образовавшихся в процессе переработки. Для отходов указываются те же
@@ -5034,7 +5034,7 @@ defined.**).
 сырья и их возврате необходимо указывать партию запасов со статусом
 **Давальческое сырье**. Стоимость образованных отходов равна нулю.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image473.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage473.png|
 
 Отчеты раздела «Производство»
 -----------------------------
@@ -5042,7 +5042,7 @@ defined.**).
 Данные раздела **Производство** анализируются с помощью отчетов,
 вызываемых командами панели отчетов раздела.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_otchetyi_razdela__proizvodstvo_\image475.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_otchetyi_razdela__proizvodstvo_image475.png|
 
 Выполнение работ, выпуск продукции
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5055,7 +5055,7 @@ defined.**).
 продукции, а также **Актов выполненных работ** и **Заказов-нарядов**,
 фиксирующих факт выполнения и сдачи работ заказчику.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_vyipolnenie_rabot__vyipusk_produktsii\image477.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_vyipolnenie_rabot__vyipusk_produktsiiimage477.png|
 
 .. _заказы-на-производство-1:
 
@@ -5068,7 +5068,7 @@ defined.**).
 перечисленная в нем номенклатура и обороты по ней: начальный и конечный
 остаток, приход и расход.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvo\image479.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvoimage479.png|
 
 Нормативный состав изделия
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5076,7 +5076,7 @@ defined.**).
 С помощью отчета можно получить наглядное представление о составе и
 технологии изготовления продукции по данным спецификации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_normativnyiy_sostav_izdeliya\image481.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_normativnyiy_sostav_izdeliyaimage481.png|
 
 В отчете отображается перечень комплектующих, необходимых для выпуска
 выбранного продукта, с указанием их количества. Те комплектующие,
@@ -5097,7 +5097,7 @@ defined.**).
 Отчет содержит данные о планируемом и фактическом выпуске продукции,
 выполнении работ, оказании услуг за указанный период.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstva\image483.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstvaimage483.png|
 
 План-фактный анализ себестоимости выпуска
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5113,7 +5113,7 @@ defined.**).
 операций, выполняемых сотрудниками в рамках сдельных нарядов. Данные
 группируются по исполнителям.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_sdelnyie_naryadyi\image485.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_sdelnyie_naryadyiimage485.png|
 
 Глава 7
 
@@ -5127,7 +5127,7 @@ defined.**).
 гиперссылок панели навигации **Документы** **по кассе** и **Документы по
 банку**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_dengi\image487.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_dengiimage487.png|
 
 .. _валюты-1:
 
@@ -5141,9 +5141,9 @@ defined.**).
 Предварительно нужно установить флажок **Вести учет операций в валюте**
 в настройках **Деньги** раздела **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image489.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyiimage489.png|
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image491.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyiimage491.png|
 
 Курсы валют
 ~~~~~~~~~~~
@@ -5165,7 +5165,7 @@ defined.**).
 установить период, за который нужно ввести новые курсы, и нажать кнопку
 **Загрузить**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyut\image495.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyutimage495.png|
 
 Банки
 -----
@@ -5175,7 +5175,7 @@ defined.**).
 справочнике, доступном по гиперссылке панели навигации **Справочники**
 раздела **Предприятие**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_banki\image497.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_bankiimage497.png|
 
 Информация о новом банке вводится с помощью формы элемента справочника.
 В ней содержится наименование банка, код банка, корреспондентский счет,
@@ -5194,7 +5194,7 @@ defined.**).
 **Отрицательная курсовая разница**, **Положительная курсовая разница**,
 **Оплата от покупателей**, **Оплата поставщикам** и **Прочее**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstv\image499.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstvimage499.png|
 
 Пользователь может добавить свои статьи денежных средств по поступлению
 и расходу денежных средств, например **Получение ссуды**, **Получение
@@ -5260,7 +5260,7 @@ defined.**).
 предусмотрена кнопка **Подобрать**. По нажатию этой кнопки вызывается
 форма подбора долгов покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_pokupatelya\image501.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_pokupatelyaimage501.png|
 
 Примечание
 
@@ -5276,7 +5276,7 @@ defined.**).
 были выданы под отчет денежные средства, и документ их выдачи. В данной
 форме не предусмотрено табличного поля для ввода нескольких оплат.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_podotchetnika\image503.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_podotchetnikaimage503.png|
 
 .. _прочее-1:
 
@@ -5293,7 +5293,7 @@ defined.**).
 выбирается из списка документов **Перемещение денег (план)** или
 **Поступление денег (план)**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_prochee\image505.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_procheeimage505.png|
 
 Расход из кассы
 ---------------
@@ -5335,7 +5335,7 @@ defined.**).
 отображаться в поле **Основание** (например, основанием может быть
 **Приходная накладная**).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschiku\image507.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschikuimage507.png|
 
 Табличное поле аналогично табличному полю документа **Приход в кассу** с
 видом операции **От покупателя**.
@@ -5348,7 +5348,7 @@ defined.**).
 предусмотрена кнопка **Подобрать**. По нажатию этой кнопки вызывается
 форма подбора долгов поставщикам.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschiku\image509.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschikuimage509.png|
 
 Покупателю
 ~~~~~~~~~~
@@ -5367,7 +5367,7 @@ defined.**).
 соответствующий авансовый отчет. В данной форме не предусмотрено
 табличного поля для ввода нескольких выплат.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetniku\image511.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetnikuimage511.png|
 
 Зарплата по ведомости
 ~~~~~~~~~~~~~~~~~~~~~
@@ -5376,7 +5376,7 @@ defined.**).
 отобразится табличное поле, где нужно указать сведения о платежных
 ведомостях и сумме выплаты по каждой ведомости.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_zarplata_po_vedomosti\image513.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_zarplata_po_vedomostiimage513.png|
 
 Зарплата сотруднику
 ~~~~~~~~~~~~~~~~~~~
@@ -5401,7 +5401,7 @@ defined.**).
 планирования** – выбирается из списка документов **Перемещение денег
 (план)** или **Поступление денег (план)**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_prochee\image515.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_procheeimage515.png|
 
 Налоги
 ~~~~~~
@@ -5410,7 +5410,7 @@ defined.**).
 заполнить реквизит **Вид налога**. Значение реквизита выбирается из
 одноименного справочника.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_nalogi\image517.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_nalogiimage517.png|
 
 Документы по кассе
 ~~~~~~~~~~~~~~~~~~
@@ -5418,7 +5418,7 @@ defined.**).
 Журнал **Документы по кассе** содержит документы учета наличных денежных
 средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasse\image519.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasseimage519.png|
 
 Перемещение денежных средств
 ----------------------------
@@ -5430,7 +5430,7 @@ defined.**).
 возможно перемещение и между банковскими счетами, между кассами и
 банковскими счетами.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_peremeschenie_denezhnyikh_sredstv\image521.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_peremeschenie_denezhnyikh_sredstvimage521.png|
 
 Безналичные денежные средства
 -----------------------------
@@ -5450,7 +5450,7 @@ defined.**).
 **Поступление на счет** предусмотрены те же самые виды операций, что и
 для документа **Поступление в кассу**, за исключением розничной выручки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_postuplenie_na_schet\image523.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_postuplenie_na_schetimage523.png|
 
 Расход со счета
 ~~~~~~~~~~~~~~~
@@ -5461,7 +5461,7 @@ defined.**).
 счета** предусмотрены те же самые виды операций, что и для документа
 **Расход из кассы**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_raskhod_so_scheta\image529.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_raskhod_so_schetaimage529.png|
 
 Авансовый отчет
 ~~~~~~~~~~~~~~~
@@ -5470,7 +5470,7 @@ defined.**).
 по расходованию подотчетным лицом выданных ему наличных или безналичных
 денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image531.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage531.png|
 
 Форма документа содержит закладки, предназначенные для ввода сведений о
 выданных авансах, запасах, услугах и оплатах.
@@ -5484,13 +5484,13 @@ defined.**).
 приходуемых на предприятии, с указанием количества и стоимости каждой
 номенклатурной позиции.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image533.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage533.png|
 
 На закладке **Услуги** указываются также дополнительные расходы,
 понесенные подотчетником, например, оплата курьерской доставки сторонним
 контрагентом.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image535.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage535.png|
 
 На закладке **Оплаты** указываются данные о выплаченных подотчетником
 поставщикам денежных средствах.
@@ -5501,7 +5501,7 @@ defined.**).
 Журнал **Документы по банку** содержит документы учета безналичных
 денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_banku\image537.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_bankuimage537.png|
 
 Платежный календарь
 -------------------
@@ -5524,7 +5524,7 @@ defined.**).
 Документ **Заявка на расход денег** предназначен для планирования
 расходования денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_zayavka_na_raskhod_deneg\image539.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_zayavka_na_raskhod_denegimage539.png|
 
 В документе указывается сумма и статья движения денежных средств, по
 которой планируется расход. Путем установки переключателя выбирается
@@ -5547,7 +5547,7 @@ defined.**).
 Документ **Поступление денег (план)** предназначен для планирования
 поступления денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_postuplenie_deneg__plan_\image541.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_postuplenie_deneg__plan_image541.png|
 
 Документ заполняется аналогично документу **Расход денег (план)**. На
 основании документа **Поступление денег (план)** может быть введен
@@ -5560,7 +5560,7 @@ defined.**).
 Документ **Перемещение денег (план)** предназначен для планирования
 перемещения денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_peremeschenie_deneg__plan_\image543.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_peremeschenie_deneg__plan_image543.png|
 
 Документ заполняется аналогично документам **Расход денег (план)** и
 **Поступление денег (план)** с той разницей, что для данного документа
@@ -5575,7 +5575,7 @@ defined.**).
 Журнал **Документы планирования денег** содержит документы оперативного
 планирования денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_deneg\image545.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_denegimage545.png|
 
 Отчеты раздела «Деньги»
 -----------------------
@@ -5583,7 +5583,7 @@ defined.**).
 Данные раздела **Деньги** анализируются с помощью отчетов, вызываемых
 командами панели отчетов раздела.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_\image547.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_image547.png|
 
 Денежные средства
 ~~~~~~~~~~~~~~~~~
@@ -5592,7 +5592,7 @@ defined.**).
 как наличных, так и безналичных. Данный отчет можно открыть по
 одноименной гиперссылке панели действий.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstva\image549.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstvaimage549.png|
 
 Отчет может быть сформирован в двух вариантах: **Ведомость** и
 **Остатки**. В режиме **Ведомость** в отчете можно отобразить движения
@@ -5608,7 +5608,7 @@ defined.**).
 заданный период для выбранной организации. Отчет формируется на
 основании данных документов **Бюджет**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image551.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvamimage551.png|
 
 Отчет может быть сформирован в четырех вариантах: **Основной**, **В
 валюте**, **План-фактный анализ** и **План-фактный анализ (вал.)**. При
@@ -5618,7 +5618,7 @@ defined.**).
 плановых и фактических движениях, а также абсолютную величину и процент
 отклонения также в валюте управленческого учета и в валюте.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image553.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvamimage553.png|
 
 Расчеты с подотчетниками
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5629,7 +5629,7 @@ defined.**).
 **Авансовый отчет** (см. стр. **Error! Bookmark not defined.**) и
 документами денежных расчетов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_raschetyi_s_podotchetnikami\image555.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_raschetyi_s_podotchetnikamiimage555.png|
 
 Отчет позволяет группировать задолженности по сотрудникам и валютам.
 Предусмотрены два режима формирования отчета: **Ведомость** и
@@ -5675,19 +5675,19 @@ defined.**).
 начислений и удержаний, используемых на предприятии. Справочник доступен
 по одноименной гиперссылке панели навигации в группе **См. также**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image557.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage557.png|
 
 Для каждого элемента справочника путем установки переключателя
 выбирается тип: **Начисление**, **Удержание** или **Налог**. Для
 начислений и удержаний указывается счет затрат. По пиктограмме
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image559.png| вызывается
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage559.png| вызывается
 окно редактирования формулы расчета, в котором определяется формула
 расчета начисления/удержания.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image561.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage561.png|
 
 В формулу могут входить элементы справочника **Параметры расчетов**,
-числа (разделитель дробной части «**.**\ »), функции.
+числа (разделитель дробной части «**.** »), функции.
 
 Для налога указывается вид налога из справочника **Виды налогов**.
 Формула расчета не задается – сумма начисленного налога указывается
@@ -5702,7 +5702,7 @@ defined.**).
 опциональным и включается с помощью флажка **Вести штатное расписание**
 в настройках **Зарплата** раздела **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanie\image563.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanieimage563.png|
 
 Форма состоит из двух частей: левая содержит дерево структурных
 подразделений организации, указанной в расположенном сверху поле списка,
@@ -5720,7 +5720,7 @@ defined.**).
 отчете **Штатное расписание**. Отчет доступен по одноименной гиперссылке
 на панели отчетов раздела.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanie\image565.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanieimage565.png|
 
 Учет движения кадров
 --------------------
@@ -5736,7 +5736,7 @@ defined.**).
 работу, а также необходимость расчета для этих сотрудников начислений и
 удержаний.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image567.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotuimage567.png|
 
 В шапке документа указывается организация-работодатель, на закладке
 **Сотрудники** – список сотрудников из справочника **Сотрудники**.
@@ -5749,7 +5749,7 @@ defined.**).
 разрешено соответствующей опцией **Использовать совместительство** в
 настройках **Зарплата** раздела **Настройки**).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image569.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotuimage569.png|
 
 На вкладке **Начисления и удержания** отображаются начисления и
 удержания выбранного на предыдущей вкладке сотрудника с указанием
@@ -5768,12 +5768,12 @@ defined.**).
 операции: **Изменение условий оплаты** или **Перемещение** **и изменение
 условий оплаты** соответственно.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenie\image571.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenieimage571.png|
 
 На вкладке **Сотрудники** перечисляются сотрудники и новые условия
 работы для них.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenie\image573.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenieimage573.png|
 
 На вкладке **Начисления и удержания** отображается список начислений и
 удержаний выбранного на предыдущей вкладке сотрудника.
@@ -5783,7 +5783,7 @@ defined.**).
 
 Увольнение сотрудников регистрируется документами **Увольнение**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_uvolnenie\image575.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_uvolnenieimage575.png|
 
 В табличное поле формы документа следует внести список увольняемых
 сотрудников и указать для каждого из них дату и причину увольнения.
@@ -5796,7 +5796,7 @@ defined.**).
 Ниже представлена схема взаимодействия документов, участвующих в
 процедуре расчета и начисления заработной платы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_raschet_i_nachislenie_zarabotnoy_platyi\image577.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_raschet_i_nachislenie_zarabotnoy_platyiimage577.png|
 
 Для видов начислений с повременной системой оплаты труда необходимо
 учитывать отработанное время сотрудников. Для этой цели используется
@@ -5819,7 +5819,7 @@ defined.**).
 рабочего времени. Список документов находится в журнале **Табели**,
 доступном по одноименной гиперссылке панели навигации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_tabel\image579.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_tabelimage579.png|
 
 В документе необходимо указать подразделение и период регистрации (дата,
 относящаяся к месяцу, на который вводится табель). Также путем установки
@@ -5846,7 +5846,7 @@ defined.**).
 Документ **Начисление зарплаты сотрудникам** предназначен для начисления
 оплаты труда (в конце месяца) и отнесения ее на затраты.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikam\image581.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikamimage581.png|
 
 В документе указывается период регистрации – дата месяца, за который
 начисляется оплата труда, организация и подразделение. Табличное поле
@@ -5882,7 +5882,7 @@ defined.**).
 выборки данных, которые будут использоваться при расчете заработной
 платы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image583.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage583.png|
 
 Каждый элемент справочника фактически содержит шаблон запроса для
 получения определенного значения из базы данных. Запрос может быть
@@ -5901,13 +5901,13 @@ defined.**).
 
 На закладке **Отбор** накладываются отборы на выборку данных.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image585.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage585.png|
 
 На закладке **Запрос** можно просмотреть результат настройки параметра
 расчетов и при необходимости отредактировать его. Редактирование запроса
 доступно при нажатой кнопке **Редактировать запрос**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image587.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage587.png|
 
 В толстом клиенте можно воспользоваться конструктором запроса по кнопке
 **Конструктор запроса**:
@@ -5927,7 +5927,7 @@ defined.**).
 Параметры запроса могут быть заданы на дополнительной закладке
 **Параметры**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image589.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage589.png|
 
 Значения параметров запроса могут заполняться несколькими способами:
 
@@ -5992,7 +5992,7 @@ defined.**).
 предприятия в целом, так и для его подразделений (например, график
 работы склада).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_grafiki_rabotyi\image591.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_grafiki_rabotyiimage591.png|
 
 Для графика работы указываются наименование, период, способ заполнения,
 а также шаблон заполнения графика.
@@ -6003,7 +6003,7 @@ defined.**).
 Документ предназначен для формирования печатной формы платежной
 ведомости по выплате заработной платы (аванса) сотрудникам организации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomost\image593.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomostimage593.png|
 
 Документ может быть заполнен автоматически с помощью кнопки командной
 панели **Заполнить по остаткам**.
@@ -6014,7 +6014,7 @@ defined.**).
 Данные раздела **Зарплата** анализируются с помощью отчетов, вызываемых
 командами панели отчетов раздела.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_otchetyi_razdela__zarplata_\image595.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_otchetyi_razdela__zarplata_image595.png|
 
 Список сотрудников
 ~~~~~~~~~~~~~~~~~~
@@ -6025,7 +6025,7 @@ defined.**).
 **Список сотрудников**, **Плановые начисления**, **Паспортные данные**,
 **Контактная информация**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_spisok_sotrudnikov\image597.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_spisok_sotrudnikovimage597.png|
 
 Начисления и удержания
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -6034,7 +6034,7 @@ defined.**).
 детализацией до вида начисления/удержания. Данные группируются по
 подразделениям.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_nachisleniya_i_uderzhaniya\image599.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_nachisleniya_i_uderzhaniyaimage599.png|
 
 Расчеты с персоналом
 ~~~~~~~~~~~~~~~~~~~~
@@ -6042,7 +6042,7 @@ defined.**).
 Отчет отображает состояние задолженности по заработной плате сотрудникам
 в течение выбранного периода времени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_raschetyi_s_personalom\image601.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_raschetyi_s_personalomimage601.png|
 
 Отработанное время
 ~~~~~~~~~~~~~~~~~~
@@ -6055,13 +6055,13 @@ defined.**).
 затратах рабочего времени за указанный период. Данные группируются по
 подразделениям.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremya\image603.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremyaimage603.png|
 
 В режиме **В целом за период** в отчет выводятся данные о суммарных
 затратах рабочего времени с детализацией до вида рабочего времени на
 определенную дату. Данные группируются по сотрудникам и подразделениям.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremya\image605.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremyaimage605.png|
 
 Глава 9 
 
@@ -6099,7 +6099,7 @@ defined.**).
 накопления в бухгалтерском регистре **Управленческий** формируются
 проводки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_provedenie_dokumentov\image607.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_provedenie_dokumentovimage607.png|
 
 Данные регистров накопления и регистра бухгалтерии используются при
 автоматическом заполнении отчетов.
@@ -6114,7 +6114,7 @@ defined.**).
 противном случае его использование не рекомендуется. Счета выбираются из
 **Плана счетов управленческого учета**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_neposredstvennyiy_vvod_provodok\image609.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_neposredstvennyiy_vvod_provodokimage609.png|
 
 В шапке документа указывается организация из одноименного справочника. В
 табличное поле вводятся записи проводок.
@@ -6125,7 +6125,7 @@ defined.**).
 План счетов управленческого счета доступен в группе **«Предприятие»** на
 Панели Навигации по гиперссылке «План счетов».
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_plan_schetov\image611.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_plan_schetovimage611.png|
 
 План счетов автоматически заполняется при первом запуске новой
 информационной базы счетами и субсчетами и основан на плане счетов по
@@ -6149,7 +6149,7 @@ defined.**).
 которых в документе регистрируется определенный статус документа сверки:
 создана, на сверке, сверена.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_dokument__sverka_vzaimoraschetov_\image613.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_dokument__sverka_vzaimoraschetov_image613.png|
 
 **Создана** – создается сверка взаиморасчетов. Документ может быть
 создан вручную или с помощью помощника создания сверки (пакетный ввод
@@ -6179,7 +6179,7 @@ defined.**).
 Документ предназначен для проведения взаимозачетов и переуступок долга с
 контрагентами.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_korrektirovka_dolga\image615.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_korrektirovka_dolgaimage615.png|
 
 В зависимости от установленного вида операции с помощью данного
 документа могут быть зафиксированы:
@@ -6218,7 +6218,7 @@ defined.**).
 деятельности предприятия. С помощью данного документа можно оприходовать
 нематериальные затраты для последующего распределения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_\image617.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_image617.png|
 
 В документе указывается собственная организация, подразделение и
 корреспондирующий счет с типом **Прочие доходы**, **Прочие оборотные
@@ -6238,7 +6238,7 @@ defined.**).
 Документ доступен по одноименной гиперссылке панели навигации в группе
 **Финансовые операции**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image619.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogovimage619.png|
 
 В документе указывается тип операции **Начисление** или **Возмещение**.
 В табличное поле вносится список налогов из справочника **Виды
@@ -6252,7 +6252,7 @@ defined.**).
 Начисления и уплаты налогов отображаются в отчете **Расчеты по
 налогам**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image621.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogovimage621.png|
 
 Закрытие месяца
 ---------------
@@ -6261,7 +6261,7 @@ defined.**).
 учете предназначена обработка **Закрытие месяца**, доступная по
 гиперссылке панели навигации в группе **Финансовые операции**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image623.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsaimage623.png|
 
 Данная обработка автоматически выполняет следующие регламентные
 операции:
@@ -6296,7 +6296,7 @@ defined.**).
 Переход к помощнику осуществляется из формы закрытия месяца по кнопке
 **Предварительный анализ**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image625.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsaimage625.png|
 
 .. _имущество-1:
 
@@ -6314,7 +6314,7 @@ defined.**).
 
 Сведения об имуществе предприятия хранятся в справочнике **Имущество**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image627.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage627.png|
 
 В справочнике отображаются основные сведения об имуществе: инвентарный
 номер, начальная стоимость, начисленная амортизация, остаточная
@@ -6328,13 +6328,13 @@ defined.**).
 Из формы списка также можно быстро оформить все доступные операции с
 имуществом или перейти в журнал учета документов по имуществу.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image629.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage629.png|
 
 С помощью гиперссылок панели навигации, расположенной в форме элемента
 справочника, можно получить доступ к дополнительной информации о текущем
 активе: его параметрах и состоянии.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image631.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage631.png|
 
 Для имущества задается его тип (**Основное средство** или
 **Нематериальный актив**), способ амортизации (**Пропорционально объему
@@ -6345,7 +6345,7 @@ defined.**).
 регистрируются документами, объединенными в журнал **Документы по
 имуществу** в подразделе **Имущество**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image633.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage633.png|
 
 Регистрация нового актива
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6360,12 +6360,12 @@ defined.**).
 Поступление нового объекта номенклатуры регистрируется документом
 **Приходная накладная**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktiva\image635.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktivaimage635.png|
 
 Чтобы зарегистрировать объект номенклатуры в качестве имущества, нужно
 ввести документ **Принятие к учету**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktiva\image637.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktivaimage637.png|
 
 На вкладке документа **Данные об объекте вложений** указываются сведения
 об объекте номенклатуры: его наименовании, количестве, характеристиках,
@@ -6388,7 +6388,7 @@ defined.**).
 можно менять. Для регистрации таких изменений предназначен документ
 **Изменение параметров**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_izmenenie_parametrov\image639.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_izmenenie_parametrovimage639.png|
 
 В табличном поле формы документа указывается список активов и новые
 значения изменяемых параметров.
@@ -6401,7 +6401,7 @@ defined.**).
 параметров**. Для этого в конце месяца следует ввести документ
 **Амортизация имущества**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiya\image641.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiyaimage641.png|
 
 Для актива со способом начисления амортизации **Пропорционально объему
 продукции** до автоматического начисления следует вручную указать объем
@@ -6409,7 +6409,7 @@ defined.**).
 **Выработка имущества**. В табличное поле формы документа следует внести
 перечень активов, указав объем выработки в колонке **Количество**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiya\image643.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiyaimage643.png|
 
 Выбытие имущества
 ~~~~~~~~~~~~~~~~~
@@ -6428,7 +6428,7 @@ defined.**).
 Документ **Продажа имущества** предназначен для регистрации факта
 реализации имущества стороннему контрагенту.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4184338358_prodazha_imuschestva\image645.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4184338358_prodazha_imuschestvaimage645.png|
 
 Документ автоматически доначисляет амортизацию за месяц, в котором
 осуществляется продажа. В колонке **Амортизация всего** указывается
@@ -6444,7 +6444,7 @@ defined.**).
 списания основных средств и нематериальных активов. Перед списанием
 документ автоматически доначисляет амортизацию за текущий месяц.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4184338358_spisanie_imuschestva\image647.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4184338358_spisanie_imuschestvaimage647.png|
 
 В шапке документа, в поле **Корреспонденция** следует указать счет
 учета, на который будет отнесена остаточная стоимость имущества.
@@ -6502,7 +6502,7 @@ defined.**).
 На закладке **Начальные остатки** указываются суммы остатков на счетах
 организации на дату начала планового периода.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_nachalnyie_ostatki\image649.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_nachalnyie_ostatkiimage649.png|
 
 Затраты
 ~~~~~~~
@@ -6510,7 +6510,7 @@ defined.**).
 Закладка **Затраты** предназначена для хранения информации о прямых и
 косвенных затратах организации за определенный период.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_zatratyi\image651.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_zatratyiimage651.png|
 
 .. _денежные-средства-1:
 
@@ -6520,7 +6520,7 @@ defined.**).
 На закладке **Денежные средства** хранятся данные бюджетов движения
 денежных средств за определенный период.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_denezhnyie_sredstva\image653.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_denezhnyie_sredstvaimage653.png|
 
 Доходы и расходы
 ~~~~~~~~~~~~~~~~
@@ -6531,7 +6531,7 @@ defined.**).
 также направление деятельности и заказ покупателя, на который относится
 доход или расход.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_dokhodyi_i_raskhodyi\image655.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_dokhodyi_i_raskhodyiimage655.png|
 
 Операции
 ~~~~~~~~
@@ -6539,7 +6539,7 @@ defined.**).
 Закладка предназначена для хранения сведений о прочих бюджетных
 операциях.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_operatsii\image657.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_operatsiiimage657.png|
 
 Отчетность раздела «Предприятие»
 --------------------------------
@@ -6553,7 +6553,7 @@ defined.**).
 Отчеты доступны на панели отчетов раздела, открывающейся по
 соответствующей гиперссылке панели навигации раздела.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_otchetnost_razdela__predpriyatie_\image659.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_otchetnost_razdela__predpriyatie_image659.png|
 
 Нераспределенные затраты
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6562,13 +6562,13 @@ defined.**).
 затратах предприятия. Данные представлены в разрезе подразделений с
 детализацией по заказам покупателей.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image661.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyiimage661.png|
 
 Отчет может быть сформирован в двух режимах – **Ведомость** и
 **Остатки**. В режиме **Остатки** данные о поступлениях и затратах
 денежных средств не отображаются.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image663.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyiimage663.png|
 
 Оборотно-сальдовая ведомость
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6576,7 +6576,7 @@ defined.**).
 Отчет **Оборотно-сальдовая ведомость** отображает сводные данные
 управленческого учета.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_oborotno_saldovaya_vedomost\image665.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_oborotno_saldovaya_vedomostimage665.png|
 
 Отчет формируется в виде таблицы, в каждой строке которой отражается
 информация, относящаяся к определенному счету управленческого учета.
@@ -6596,7 +6596,7 @@ defined.**).
 Сводные сведения о выработке имущества за выбранный период времени
 отображаются в отчете **Выработка имущества**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_vyirabotka_imuschestva\image667.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_vyirabotka_imuschestvaimage667.png|
 
 Планы продаж
 ~~~~~~~~~~~~
@@ -6607,7 +6607,7 @@ defined.**).
 сумма, а также подведен итог по каждому отдельному подразделению и по
 всем подразделениям в целом.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazh\image669.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazhimage669.png|
 
 Глава 10 
 
@@ -6688,7 +6688,7 @@ defined.**).
 заказов. По кнопке **Подробнее** можно перейти к отчету **Расчеты с
 поставщиками**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1839274723_kreditoryi\image671.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1839274723_kreditoryiimage671.png|
 
 Используя поля выбора на командной панели, руководитель имеет
 возможность вывести такие списки на любую дату и по любой организации.
@@ -6711,7 +6711,7 @@ defined.**).
 запретить вывод лишних показателей, используя форму настройки,
 вызываемую по команде меню **Все действия – Изменить форму**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateli\image673.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateliimage673.png|
 
 .. _денежные-средства-3:
 
@@ -6759,7 +6759,7 @@ defined.**).
 форму настройки, вызываемую по команде меню **Все действия – Изменить
 форму**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_166486322_raskhod_denezhnyikh_sredstv\image675.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_166486322_raskhod_denezhnyikh_sredstvimage675.png|
 
 Расчеты с покупателями
 ----------------------
@@ -6806,7 +6806,7 @@ defined.**).
 запретить вывод лишних показателей, используя форму настройки,
 вызываемую по команде меню **Все действия – Изменить форму**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1143992319_dinamika_zadolzhennosti_i_debitoryi_s_prosrochkoy\image677.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1143992319_dinamika_zadolzhennosti_i_debitoryi_s_prosrochkoyimage677.png|
 
 .. _расчеты-с-поставщиками-1:
 
@@ -6855,7 +6855,7 @@ defined.**).
 запретить вывод лишних показателей, используя форму настройки,
 вызываемую по команде меню **Все действия – Изменить форму**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2140434732_dinamika_zadolzhennosti_i_kreditoryi_s_prosrochkoy\image679.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2140434732_dinamika_zadolzhennosti_i_kreditoryi_s_prosrochkoyimage679.png|
 
 Отчеты раздела «Анализ»
 -----------------------
@@ -6867,7 +6867,7 @@ defined.**).
 **Бюджет по балансу**, **Бюджет прибылей и убытков** и
 **Оборотно-сальдовая ведомость**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_\image681.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_image681.png|
 
 План-фактный анализ продаж
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6875,7 +6875,7 @@ defined.**).
 С помощью отчета **План-фактный анализ продаж** можно проанализировать
 соотношение планируемых и фактических продаж.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_plan_faktnyiy_analiz_prodazh\image683.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_plan_faktnyiy_analiz_prodazhimage683.png|
 
 В отчете отражается разница между количеством и суммой планируемого к
 продаже и проданного товара с указанием величины процентного отклонения,
@@ -6887,7 +6887,7 @@ defined.**).
 Отчет содержит данные о себестоимости выпущенной продукции, работ и
 услуг с расшифровкой понесенных при этом затрат.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimost\image685.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimostimage685.png|
 
 .. _продажи-3:
 
@@ -6897,14 +6897,14 @@ defined.**).
 Отчет **Продажи** отображает сведения о проданных позициях номенклатуры
 в количественном и суммовом выражении за определенный период времени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhi\image687.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhiimage687.png|
 
 В отчете предусмотрена группировка по заказам.
 
 Вариант отчета **Валовая прибыль** предназначен для анализа валовой
 прибыли от продаж за период.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhi\image689.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhiimage689.png|
 
 Товары в ценах номенклатуры
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6912,7 +6912,7 @@ defined.**).
 Отчет предназначен для анализа потенциального объема запасов на складах
 в количественном и стоимостном выражении.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_tovaryi_v_tsenakh_nomenklaturyi\image691.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_tovaryi_v_tsenakh_nomenklaturyiimage691.png|
 
 Баланс
 ~~~~~~
@@ -6920,7 +6920,7 @@ defined.**).
 В отчет выводится управленческий баланс на заданный период для выбранной
 организации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_balans\image693.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_balansimage693.png|
 
 Финансовый результат
 ~~~~~~~~~~~~~~~~~~~~
@@ -6929,7 +6929,7 @@ defined.**).
 рассчитанные в процедуре закрытия месяца. Данные отчета сгруппированы по
 направлениям деятельности.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat\image695.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultatimage695.png|
 
 Финансовый результат (прогноз)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6938,12 +6938,12 @@ defined.**).
 период для выбранной организации. Отчет формируется на основании данных
 документов **Бюджет**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image697.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_image697.png|
 
 Отчет может формироваться в режимах **Основной** и **План-фактный
 анализ**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image699.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_image699.png|
 
 Прибыли и убытки
 ~~~~~~~~~~~~~~~~
@@ -6951,7 +6951,7 @@ defined.**).
 В отчет выводится информация о прибылях и убытках организации за
 указанный период.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitki\image701.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitkiimage701.png|
 
 Данные отчета сгруппированы по обычным и прочим видам деятельности. В
 нижней части отчета выводится информация о доходах и расходах до
@@ -6965,7 +6965,7 @@ defined.**).
 периода, поступления и выбытия, сгруппированные по статьям движения
 денежных средств, а также суммарный приток (отток) денежных средств.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstv\image703.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstvimage703.png|
 
 Доходы и расходы кассовым методом
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6975,7 +6975,7 @@ defined.**).
 учетной политики установлен флажок **Использовать кассовый метод учета
 доходов и расходов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodom\image705.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodomimage705.png|
 
 Данные отчета сгруппированы по направлениям деятельности.
 
@@ -6987,7 +6987,7 @@ defined.**).
 Отчет содержит данные о доходах и расходах организации, рассчитанные
 методом начислений (по отгрузке).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi\image707.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyiimage707.png|
 
 Данные отчета сгруппированы по направлениям деятельности.
 
@@ -6998,7 +6998,7 @@ defined.**).
 заданный период для выбранной организации. Отчет формируется на
 основании данных документов **Бюджет движения денежных средств**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstv\image709.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstvimage709.png|
 
 Отчет может быть сформирован в двух вариантах: **Основной** и
 **План-фактный анализ**. При выборе варианта **Основной** в отчет
@@ -7007,7 +7007,7 @@ defined.**).
 поступлениях и выбытиях, а также абсолютную величину и процент
 отклонения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstv\image711.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstvimage711.png|
 
 Бюджет прибылей и убытков
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -7016,7 +7016,7 @@ defined.**).
 период для выбранной организации. Отчет формируется на основании данных
 документов **Бюджет**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkov\image713.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkovimage713.png|
 
 Отчет может быть сформирован в двух вариантах: **Основной** и
 **План-фактный анализ**. При выборе варианта **Основной** в отчет
@@ -7026,7 +7026,7 @@ defined.**).
 фактической прибыли (убытке) с учетом налогообложения, а также
 абсолютную величину и процент отклонения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkov\image715.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkovimage715.png|
 
 Прогнозный баланс
 ~~~~~~~~~~~~~~~~~
@@ -7034,14 +7034,14 @@ defined.**).
 В отчет выводятся данные прогнозного баланса на заданный период для
 выбранной организации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image717.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balansimage717.png|
 
 Отчет может быть сформирован в двух вариантах: **Основной** и
 **План-фактный анализ**. При выборе варианта **План-фактный анализ** в
 отчет выводятся данные планового и фактического прогнозного баланса, а
 также абсолютная величина и процент отклонения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image719.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balansimage719.png|
 
 Глава 11
 
@@ -7112,7 +7112,7 @@ defined.**).
 клиент**, **Веб-клиент** или **Конфигуратор**, но и пользователи,
 работающие через **COM-соединение**, **WS-соединение** и т. п.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_prosmotr_spiska_aktivnyikh_polzovateley\image721.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_prosmotr_spiska_aktivnyikh_polzovateleyimage721.png|
 
 Для анализа работы конкретного пользователя можно перейти к списку
 активных пользователей по одноименной гиперссылке на панели **Поддержка
@@ -7140,7 +7140,7 @@ defined.**).
 информационной базой в режиме «**1C:Enterprise»** на указанный период
 времени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_blokirovka_rabotyi_polzovateley\image723.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_blokirovka_rabotyi_polzovateleyimage723.png|
 
 При наступлении времени начала блокировки будет завершена работа
 пользователей, подключенных к информационной базе, и выполнена попытка
@@ -7323,7 +7323,7 @@ SQL-сервера.
 переключатель в нужное положение: автоматическое или выборочное удаление
 объектов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_udalenie_pomechennyikh_obektov\image727.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_udalenie_pomechennyikh_obektovimage727.png|
 
 Затем нажать кнопку **Удалить** в режиме автоматического и **Далее >** в
 режиме ручного удаления. В первом случае будет произведено
@@ -7352,7 +7352,7 @@ SQL-сервера.
 соответствующей командой панели **Поддержка и обслуживание** раздела
 **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_datyi_zapreta_izmeneniya_dannyikh\image729.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_datyi_zapreta_izmeneniya_dannyikhimage729.png|
 
 Дату запрета изменений можно устанавливать как для всех пользователей
 системы, так и для конкретного пользователя или группы пользователей.
@@ -7372,7 +7372,7 @@ SQL-сервера.
 поля **Способ указания даты** **запрета** (подробнее см. далее) и поле
 **Дата запрета**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image731.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage731.png|
 
 Если дата запрета не установлена, то ограничения не действуют. При
 установке даты запрета можно задавать не только произвольную дату, но и
@@ -7404,7 +7404,7 @@ SQL-сервера.
 ежедневно; если установлено значение **Конец прошлого месяца**, то
 команду нужно выполнять ежемесячно.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image733.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage733.png|
 
 Существуют ситуации, когда разным пользователям необходимо устанавливать
 разные значения даты запрета изменения. Например, установка даты запрета
@@ -7415,7 +7415,7 @@ SQL-сервера.
 пользователей системы (группы пользователей) и настраивать для каждого
 из них свое значение даты запрета изменений.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image735.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage735.png|
 
 В списке по умолчанию всегда присутствует элемент **<Для всех
 пользователей>**. Элемент нельзя удалить или изменить. Настройки даты
@@ -7442,7 +7442,7 @@ SQL-сервера.
 **Общая дата** – при этом способе одна дата запрета задается для всех
 элементов данных информационной базы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_sposobyi_ukazaniya_datyi_zapreta_izmeneniy\image737.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_sposobyi_ukazaniya_datyi_zapreta_izmeneniyimage737.png|
 
 В списке по умолчанию всегда присутствует элемент **<Общая дата>**.
 Значение даты запрета изменений для этого элемента будет использоваться
@@ -7510,7 +7510,7 @@ SQL-сервера.
 одноименной командой на панели **Поддержка и обслуживание** раздела
 **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniya\image739.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniyaimage739.png|
 
 На первой странице помощника можно выполнить следующие действия:
 
@@ -7677,7 +7677,7 @@ SQL-сервера.
 информации**. Справочник доступен по одноименной гиперссылке панели
 **Общие настройки** в разделе **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_vidyi_kontaktnoy_informatsii\image741.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_vidyi_kontaktnoy_informatsiiimage741.png|
 
 Справочник содержит предопределенные элементы, разбитые на группы в
 зависимости от назначения. Каждая группа содержит виды контактной
@@ -7714,7 +7714,7 @@ SQL-сервера.
 справочников – не версионировать, для документов – версионировать при
 проведении).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_versionirovanie_obektov\image743.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_versionirovanie_obektovimage743.png|
 
 Версионирование большого количества объектов может привести к увеличению
 объема хранимой в программе информации из-за хранения их версий, что
@@ -7832,7 +7832,7 @@ SQL-сервера.
 **Номенклатура**, **Организации** и т. д. Для каждого набора
 определяется состав свойств и типы значений.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_dopolnitelnyie_rekvizityi_i_svedeniya\image745.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_dopolnitelnyie_rekvizityi_i_svedeniyaimage745.png|
 
 Один из предопределенных элементов справочника является группой, которая
 содержит наборы свойств для элементов справочника **Характеристики
@@ -7950,7 +7950,7 @@ SQL-сервера.
 В табличной части формы нужно указать значения, которые может принимать
 реквизит **Производитель**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image747.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage747.png|
 
 Для создания сведения **Вариантов дизайна** нужно:
 
@@ -7974,7 +7974,7 @@ SQL-сервера.
 значений, введенных нами ранее в справочник **Значения свойств
 объектов**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image749.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage749.png|
 
 При выборе гиперссылки **Дополнительные сведения** из списка команд
 **Еще – Карточки товара** вызывается окно со списком дополнительных
@@ -7991,13 +7991,13 @@ SQL-сервера.
 сведению (например, пусть вариантов дизайна для товара будет больше чем
 один). Также можно задать для дополнительных сведений иерархию.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image751.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage751.png|
 
 Сохранив настройки, создать новый заказ покупателя с использованием
 товаров, для которых указаны значения дополнительного реквизита и
 свойства, и сформировать отчет с отбором по этому заказу.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image753.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage753.png|
 
 В отчет попали только товары, для которых значение дополнительного
 сведения **Вариантов дизайна** равно 3 и 6, то есть больше 1. Товары,
@@ -8024,7 +8024,7 @@ SQL-сервера.
 команды панели **Настройки пользователей и прав** в разделе
 **Настройки**. Форма элемента справочника имеет следующий вид.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelya\image755.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelyaimage755.png|
 
 Для регистрации нового пользователя информационной базы необходимо
 сделать следующее:
@@ -8071,7 +8071,7 @@ Windows – универсальную возможность программ �
 выбора из списка пользователей базы данных) и пароль, соответствующий
 выбранному имени.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelya\image757.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelyaimage757.png|
 
 Подсказка
 
@@ -8094,7 +8094,7 @@ Windows – универсальную возможность программ �
 **Пользователи** воспользоваться гиперссылкой **Права доступа** и
 выполнить настройки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_prava\image759.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_pravaimage759.png|
 
 Ограничение доступа к разделам конфигурации
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -8117,26 +8117,26 @@ Windows – универсальную возможность программ �
 ними документы, которые относятся к другим менеджерам, доступны не
 будут.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image761.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage761.png|
 
 Для включения данного функционала необходимо на панели **Настройки
 пользователей и прав**, которую можно открыть из раздела **Настройки**,
 установить флажки **Ограничивать доступ на уровне записей**, **Группы
 доступа контрагентов** и создать необходимые группы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image763.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage763.png|
 
 После этого в формах контрагентов появится поле **Группа доступа**,
 которое является обязательным для заполнения.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image765.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage765.png|
 
 Для автоматического заполнения группы доступа сразу у нескольких
 контрагентов предназначена форма **Изменение выделенных элементов**.
 Форма открывается с помощью гиперссылки **Изменить выделенные** из
 выпадающего списка команд (кнопка **Еще**).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image767.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage767.png|
 
 После того как контрагенты будут распределены, нужно для каждого
 пользователя определить группы доступа, с которыми ему предстоит
@@ -8154,7 +8154,7 @@ Windows – универсальную возможность программ �
 ограничить доступ к документам и отчетам только по тем кассам, которые
 определены в настройках пользователя.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_k_kassam\image769.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_k_kassamimage769.png|
 
 Для ее включения необходимо установить опцию **Ограничивать доступ на
 уровне записей** на панели **Настройки пользователей и прав** и указать
@@ -8187,7 +8187,7 @@ Windows – универсальную возможность программ �
 будет работать данный пользователь. Форма настроек доступна из карточки
 пользователя по гиперссылке панели навигации **Настройки пользователя**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_nastroyki_polzovatelya\image771.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_nastroyki_polzovatelyaimage771.png|
 
 Каждому пользователю базы данных можно поставить в соответствие
 несколько сотрудников, которым будет разрешено использовать для работы
@@ -8279,12 +8279,12 @@ Windows – универсальную возможность программ �
 окончания**, а также содержимого поля **Сообщения пользователю** с
 описанием ошибки.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image774.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniyaimage774.png|
 
 *Детальный контроль* представляет собой анализ списка фоновых заданий на
 закладке **Фоновые задания**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image776.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniyaimage776.png|
 
 Детальный контроль производится с помощью отбора фоновых заданий по
 интересующему регламентному заданию и анализа реквизитов фоновых
@@ -8309,7 +8309,7 @@ Windows – универсальную возможность программ �
 
 ■ пометить на удаление дублирующиеся элементы в списке.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_poisk_i_udalenie_dubley\image778.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_poisk_i_udalenie_dubleyimage778.png|
 
 По кнопке **Удалить дубли** все дублирующие элементы в документах
 заменяются на выбранный оригинал.
@@ -8320,7 +8320,7 @@ Windows – универсальную возможность программ �
 Перед использованием функционала необходимо установить флажок
 (константу) **Синхронизация данных** и префикс информационной базы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikh\image780.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikhimage780.png|
 
 Настройка обмена производится в форме **Синхронизация данных**. Форма
 открывается командой **Настройка синхронизации данных** на панели
@@ -8417,7 +8417,7 @@ Windows – универсальную возможность программ �
 Настройка обмена производится в форме **Узлы обмена с сайтами**, которая
 открывается по гиперссылке **Настройте обмен с сайтами**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image782.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage782.png|
 
 Создание нового обмена с сайтом выполняется при помощи **Помощника по
 созданию обмена данными с web-сайтом**, который открывается по команде
@@ -8433,7 +8433,7 @@ Windows – универсальную возможность программ �
 ■ Настройки подключения к сайту. Обмен с сайтом возможен через Интернет
 или с использованием каталогов на диске.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image784.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage784.png|
 
 ■ Настройки для выгрузки номенклатуры, если установлен режим **Выгрузка
 товаров**. Указываются виды цен, определяющие цены, выгружаемые на сайт,
@@ -8442,7 +8442,7 @@ Windows – универсальную возможность программ �
 изображения, присоединенные к номенклатуре, следует установить флажок
 **Выгружать изображения номенклатуры**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image786.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage786.png|
 
 ■ Настройки для обмена заказами, если установлен режим **Обмен
 заказами**. Указывается **Способ загрузки контрагентов** с сайта и
@@ -8532,7 +8532,7 @@ Windows – универсальную возможность программ �
 пользователей, хранятся в справочнике **Подключаемое оборудование**, к
 которому имеется доступ по одноименной ссылке из раздела **Настройки**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image790.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage790.png|
 
 Для установки нового устройства следует нажать кнопку **Создать**. В
 открывшейся форме указываются:
@@ -8567,7 +8567,7 @@ Windows – универсальную возможность программ �
 включает в себя имя компьютера и пользователя. Значение выбирается из
 справочника **Рабочие места**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image792.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage792.png|
 
 По завершении установки и настройки подключенные устройства отобразятся
 в списке. Используя флажки **Все типы оборудования**, **Все рабочие
@@ -8576,13 +8576,13 @@ Windows – универсальную возможность программ �
 вывести список устройств только указанного типа и только для заданного
 рабочего места.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image794.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage794.png|
 
 С помощью команд меню **Управление рабочими местами** можно вызвать
 формы для просмотра и редактирования списка рабочих мест, а также
 подключить новое устройство к определенному рабочему месту.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image796.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage796.png|
 
 При этом в форме создания нового внешнего оборудования реквизит
 **Рабочее место** будет заполнен и недоступен для редактирования.
@@ -8598,17 +8598,17 @@ Windows – универсальную возможность программ �
 параметры системы, а также настроить параметры доступа к Интернету при
 использовании прокси-сервера.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image798.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage798.png|
 
 На панели **Интерфейс работы с файлами** осуществляется персональная
 настройка параметров работы с файлами.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image800.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage800.png|
 
 На закладке **Печать** – параметры печати и работы с макетами печатных
 форм.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image802.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage802.png|
 
 Интерфейс работы с файлами
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -8619,7 +8619,7 @@ Windows – универсальную возможность программ �
 С помощью гиперссылки **Файлы** пользователь получает доступ к хранилищу
 файлов.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1594988825_interfeys_rabotyi_s_faylami\image804.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1594988825_interfeys_rabotyi_s_faylamiimage804.png|
 
 В левой части формы расположено дерево каталогов, в которых размещены
 файлы. С помощью команд меню **Создать** можно добавлять новые каталоги
@@ -8692,7 +8692,7 @@ Windows – универсальную возможность программ �
 команду (открытие списка, ввода документа и т. д.) и выполнить ее
 (выбрать с помощью мыши или клавиши **Enter**).
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3335415884_interfeys_programmyi\image806.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3335415884_interfeys_programmyiimage806.png|
 
 Окно устроено таким образом, что позволяет достаточно легко
 ориентироваться в программе, перемещаться между различными областями,
@@ -8706,11 +8706,11 @@ Windows – универсальную возможность программ �
 Интерфейс «ТАКСИ» позволяет самостоятельно конструировать свое рабочее
 пространство, располагая панели в разных областях экрана. Чтобы открыть
 схему **Настройка панелей**, нужно нажать кнопку **Главное меню**
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image808.png|,
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstvaimage808.png|,
 которая находится в верхнем левом углу экрана, и выбрать **Вид –
 Настройка панелей**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image810.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstvaimage810.png|
 
 Положение панелей меняется путем перетаскивания их мышкой по областям
 экрана.
@@ -8746,7 +8746,7 @@ Windows – универсальную возможность программ �
 Например, для пользователя с полными правами на начальной странице
 отображается форма **Монитор руководителя** и список текущих дел.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image812.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage812.png|
 
 Для переключения между формами начальной страницы используется клавиша
 **F6**.
@@ -8763,7 +8763,7 @@ Windows – универсальную возможность программ �
 **Доступные формы** отображаются формы, не используемые ни в левой, ни в
 правой колонке.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image814.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage814.png|
 
 Формы можно перетаскивать из одного списка в другой с помощью кнопок
 **Добавить >**, **Добавить все >>**, перемещать между колонками с
@@ -8772,7 +8772,7 @@ Windows – универсальную возможность программ �
 кнопку **< Удалить** или дважды щелкнуть по названию формы в списке.
 Чтобы удалить все формы с начальной страницы, нажать кнопку **<< Удалить
 все**. Также можно изменять порядок форм в колонках с помощью кнопок
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image816.png|.
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage816.png|.
 Формы выводятся на начальной странице в том же порядке, который
 установлен в настройках.
 
@@ -8789,14 +8789,14 @@ Windows – универсальную возможность программ �
 Чтобы настроить или спрятать панели, нужно использовать соответствующие
 команды главного меню **Вид**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_otobrazheniya_paneley\image818.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_otobrazheniya_paneleyimage818.png|
 
 Данное подменю позволяет управлять видимостью панелей и содержимым
 панели разделов, панелей навигации формы и начальной страницы. Это дает
 возможность увеличить место под формы и уменьшить вероятность появления
 полос прокрутки. Чтобы спрятать все панели, используется команда
 главного меню **Вид – Скрыть все панели** или сочетание клавиш **Ctrl +
-Shift + \`**.
+Shift + `**.
 
 Панель разделов
 ~~~~~~~~~~~~~~~
@@ -8807,7 +8807,7 @@ Shift + \`**.
 Диалог настройки панели разделов открывается командой главного меню
 **Вид – Настройка панели разделов...**
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelov\image820.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelovimage820.png|
 
 Чтобы добавить раздел на панель, нужно выбрать его в списке доступных
 разделов и нажать кнопку **Добавить >**. В диалоге настройки
@@ -8843,12 +8843,12 @@ Shift + \`**.
 
 Чтобы добавить или удалить кнопки на стандартной командной панели
 основного или вспомогательного окна, следует нажать кнопку
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image822.png| (**Другие
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_oknaimage822.png| (**Другие
 кнопки**) в правом верхнем углу экрана, в появившемся меню навести
 курсор мыши на пункт **Добавить или удалить кнопки** и в отобразившемся
 меню установить или снять пометку напротив названия команды.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image824.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_oknaimage824.png|
 
 Команда, для которой пометка установлена, отобразится в области
 системных команд окна. Команда, для которой пометка снята, скроется из
@@ -8862,7 +8862,7 @@ Shift + \`**.
 редактора формы открывается при вызове команды **Еще – Изменить форму**
 на командной панели формы.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyi\image826.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyiimage826.png|
 
 В левой части окна в виде дерева отображается структура элементов формы.
 В правой части – список свойств выбранного элемента формы.
@@ -8933,7 +8933,7 @@ Shift + \`**.
 Для вызова диалога настройки параметров системы «1C:Enterprise»
 используется команда главного меню **Сервис – Параметры**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryi\image828.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryiimage828.png|
 
 В диалоге возможна настройка следующих параметров:
 
@@ -9043,7 +9043,7 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 **Продажи** и на панели действий нажать гиперссылку **Контрагент**. В
 результате откроется форма ввода сведений о клиенте.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_novogo_klienta\image830.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_novogo_klientaimage830.png|
 
 Если клиент является физическим лицом, то для него достаточно ввести имя
 или фамилию в поле **Наименование**.
@@ -9055,12 +9055,12 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 сформировать непосредственно из карточки контрагента сразу после
 регистрации.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovora\image832.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovoraimage832.png|
 
 В новом документе необходимо указать договор и заполнить в нем поля
 сроков оплаты.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovora\image834.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovoraimage834.png|
 
 Регистрация выпуска кондиционера
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -9076,9 +9076,9 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 документа **Заказ покупателя** с видом операции **Заказ на продажу**.
 Новый документ адресуется подразделению **Сборочный цех**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image836.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage836.png|
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image838.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage838.png|
 
 Факт сборки кондиционера регистрируется документом **Производство**,
 который можно сформировать на основании документа **Заказ на
@@ -9091,7 +9091,7 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 либо указать целевые склады и склады-источники непосредственно в форме
 документа **Производство**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image841.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage841.png|
 
 Счет на оплату
 ~~~~~~~~~~~~~~
@@ -9099,7 +9099,7 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 На основании заказа покупателю может быть создан документ **Счет на
 оплату**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_schet_na_oplatu\image843.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_schet_na_oplatuimage843.png|
 
 Регистрация выполнения монтажа
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -9114,14 +9114,14 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 кондиционера, включая установку и монтаж), либо на основании документа
 **Счет на оплату**.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazha\image845.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazhaimage845.png|
 
 Документ **Заказ-наряд** вводится независимо и выполняет несколько
 функций сразу: заказа покупателя, счета на оплату, акта выполненных
 работ и расходной накладной для сферы сервисных услуг со списанием на
 него прямых материальных, трудовых затрат.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazha\image847.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazhaimage847.png|
 
 Получение оплаты
 ~~~~~~~~~~~~~~~~
@@ -9132,14 +9132,14 @@ Shift + Tab** или **Ctrl + Shift + F6**. При этом учитываютс
 **Заказ-наряд**. Табличное поле формы документа, отображающее детали
 платежа, может быть заполнено методом подбора.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyi\image849.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyiimage849.png|
 
 Факт оплаты услуг безналичными денежными средствами регистрируется
 документом **Поступление на счет**. Он может быть введен на основании
 заказа покупателя, счета, выставленного покупателю, или акта выполненных
 работ.
 
-|C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyi\image851.png|
+|C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyiimage851.png|
 
 Использование отчетов
 ~~~~~~~~~~~~~~~~~~~~~
@@ -9485,402 +9485,402 @@ settings, которая находится в разделе Bookkeeping portab
 бухгалтерские проводки или нет, а также для ввода шаблона бухгалтерских
 операций в случае их отсутствия.
 
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_nastroyka_rabotyi_polzovatelya_v_konfiguratsii\image001.png| image:: media/image1.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_nastroyka_rabotyi_polzovatelya_v_konfiguratsiiimage001.png| image:: media/image1.png
    :width: 3.69792in
    :height: 1.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__predpriyatie_\image003.png| image:: media/image2.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__predpriyatie_image003.png| image:: media/image2.png
    :width: 3.9375in
    :height: 4.17708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image005.png| image:: media/image3.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage005.png| image:: media/image3.png
    :width: 3.9375in
    :height: 1.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image007.png| image:: media/image4.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage007.png| image:: media/image4.png
    :width: 3.9375in
    :height: 2.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image009.png| image:: media/image5.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage009.png| image:: media/image5.png
    :width: 3.9375in
    :height: 3.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsii\image011.png| image:: media/image6.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_organizatsiiimage011.png| image:: media/image6.png
    :width: 3.9375in
    :height: 2.9375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image013.png| image:: media/image7.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsiiimage013.png| image:: media/image7.png
    :width: 0.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image015.png| image:: media/image8.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsiiimage015.png| image:: media/image8.png
    :width: 3.9375in
    :height: 2.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_otvetstvennyie_litsa\image017.png| image:: media/image9.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_otvetstvennyie_litsaimage017.png| image:: media/image9.png
    :width: 3.9375in
    :height: 2.51042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_dolzhnosti\image019.png| image:: media/image10.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_dolzhnostiimage019.png| image:: media/image10.png
    :width: 3.9375in
    :height: 3.30208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image021.png| image:: media/image11.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudnikiimage021.png| image:: media/image11.png
    :width: 3.9375in
    :height: 3.30208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image023.png| image:: media/image12.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudnikiimage023.png| image:: media/image12.png
    :width: 3.875in
    :height: 2.04167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image025.png| image:: media/image13.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage025.png| image:: media/image13.png
    :width: 3.9375in
    :height: 3.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image027.png| image:: media/image14.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage027.png| image:: media/image14.png
    :width: 3.9375in
    :height: 3.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image030.png| image:: media/image15.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsaimage030.png| image:: media/image15.png
    :width: 3.9375in
    :height: 3.01042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image036.png| image:: media/image16.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage036.png| image:: media/image16.png
    :width: 3.9375in
    :height: 1.59375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image038.png| image:: media/image17.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage038.png| image:: media/image17.png
    :width: 3.9375in
    :height: 1.64583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniya\image040.png| image:: media/image18.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_podrazdeleniyaimage040.png| image:: media/image18.png
    :width: 3.9375in
    :height: 2.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_napravleniya_deyatelnosti\image042.png| image:: media/image19.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_napravleniya_deyatelnostiimage042.png| image:: media/image19.png
    :width: 3.9375in
    :height: 2.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_resursyi_predpriyatiya\image046.png| image:: media/image20.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_170891170_resursyi_predpriyatiyaimage046.png| image:: media/image20.png
    :width: 3.9375in
    :height: 1.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__prodazhi_\image048.png| image:: media/image21.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__prodazhi_image048.png| image:: media/image21.png
    :width: 3.9375in
    :height: 4.15625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3179623413_kassyi_kkm\image050.png| image:: media/image22.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3179623413_kassyi_kkmimage050.png| image:: media/image22.png
    :width: 3.9375in
    :height: 1.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1420159108_zakazyi_pokupateley\image052.png| image:: media/image23.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1420159108_zakazyi_pokupateleyimage052.png| image:: media/image23.png
    :width: 3.9375in
    :height: 1.25in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zakupki_\image054.png| image:: media/image24.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zakupki_image054.png| image:: media/image24.png
    :width: 3.9375in
    :height: 4.41667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image056.png| image:: media/image25.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage056.png| image:: media/image25.png
    :width: 3.9375in
    :height: 1.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image058.png| image:: media/image26.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage058.png| image:: media/image26.png
    :width: 3.9375in
    :height: 2.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image060.png| image:: media/image27.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage060.png| image:: media/image27.png
    :width: 3.9375in
    :height: 2.5in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyi\image062.png| image:: media/image28.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_skladyiimage062.png| image:: media/image28.png
    :width: 3.9375in
    :height: 1.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3421438739_sostoyaniya_zakazov_postavschikam\image064.png| image:: media/image29.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3421438739_sostoyaniya_zakazov_postavschikamimage064.png| image:: media/image29.png
    :width: 3.9375in
    :height: 1.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__servis_\image066.png| image:: media/image30.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__servis_image066.png| image:: media/image30.png
    :width: 3.9375in
    :height: 1.96875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__proizvodstvo_\image068.png| image:: media/image31.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__proizvodstvo_image068.png| image:: media/image31.png
    :width: 3.9375in
    :height: 2.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1801298459_sostoyaniya_zakazov_na_proizvodstvo\image070.png| image:: media/image32.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1801298459_sostoyaniya_zakazov_na_proizvodstvoimage070.png| image:: media/image32.png
    :width: 3.9375in
    :height: 1.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__dengi_\image072.png| image:: media/image33.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__dengi_image072.png| image:: media/image33.png
    :width: 3.9375in
    :height: 3.0625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyi\image074.png| image:: media/image34.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyiimage074.png| image:: media/image34.png
    :width: 3.9375in
    :height: 1.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyi\image076.png| image:: media/image35.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2654660430_kassyiimage076.png| image:: media/image35.png
    :width: 3.79167in
    :height: 1.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zarplata_\image078.png| image:: media/image36.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808238750_razdel_nastroek__zarplata_image078.png| image:: media/image36.png
    :width: 3.9375in
    :height: 2.58333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnosti\image080.png| image:: media/image37.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnostiimage080.png| image:: media/image37.png
    :width: 3.66667in
    :height: 3.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_rabochego_vremeni\image082.png| image:: media/image38.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_rabochego_vremeniimage082.png| image:: media/image38.png
    :width: 3.9375in
    :height: 3.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_dokumentov_fizicheskikh_lits\image084.png| image:: media/image39.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3270027021_vidyi_dokumentov_fizicheskikh_litsimage084.png| image:: media/image39.png
    :width: 3.5625in
    :height: 4.08333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image086.png| image:: media/image40.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage086.png| image:: media/image40.png
    :width: 3.9375in
    :height: 3.35417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image088.png| image:: media/image41.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage088.png| image:: media/image41.png
    :width: 3.9375in
    :height: 2.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image092.png| image:: media/image42.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage092.png| image:: media/image42.png
    :width: 3.9375in
    :height: 4.82292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image094.png| image:: media/image43.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage094.png| image:: media/image43.png
    :width: 3.13542in
    :height: 2.4375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image096.png| image:: media/image44.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyiimage096.png| image:: media/image44.png
    :width: 3.10417in
    :height: 1.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image098.png| image:: media/image45.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage098.png| image:: media/image45.png
    :width: 3.9375in
    :height: 1.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image100.png| image:: media/image46.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage100.png| image:: media/image46.png
    :width: 3.9375in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image102.png| image:: media/image47.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage102.png| image:: media/image47.png
    :width: 3.9375in
    :height: 2.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image104.png| image:: media/image48.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage104.png| image:: media/image48.png
    :width: 3.9375in
    :height: 3.16667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image106.png| image:: media/image49.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage106.png| image:: media/image49.png
    :width: 3.9375in
    :height: 1.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image108.png| image:: media/image50.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentovimage108.png| image:: media/image50.png
    :width: 3.9375in
    :height: 3.16667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image110.png| image:: media/image51.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage110.png| image:: media/image51.png
    :width: 3.9375in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image112.png| image:: media/image52.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage112.png| image:: media/image52.png
    :width: 3.9375in
    :height: 2.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image114.png| image:: media/image53.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisemimage114.png| image:: media/image53.png
    :width: 3.9375in
    :height: 2.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image116.png| image:: media/image54.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage116.png| image:: media/image54.png
    :width: 3.9375in
    :height: 4.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image118.png| image:: media/image55.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage118.png| image:: media/image55.png
    :width: 4.02083in
    :height: 1.91667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image120.png| image:: media/image56.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnikaimage120.png| image:: media/image56.png
    :width: 3.9375in
    :height: 3.3125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image122.png| image:: media/image57.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage122.png| image:: media/image57.png
    :width: 3.9375in
    :height: 3.89583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image124.png| image:: media/image58.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage124.png| image:: media/image58.png
    :width: 4.05208in
    :height: 2.23958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompanii\image126.png| image:: media/image59.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_prays_list_kompaniiimage126.png| image:: media/image59.png
    :width: 3.16667in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image128.png| image:: media/image60.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage128.png| image:: media/image60.png
    :width: 4.20833in
    :height: 3.27083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image130.png| image:: media/image61.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage130.png| image:: media/image61.png
    :width: 3.9375in
    :height: 2.09375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image132.png| image:: media/image62.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsenimage132.png| image:: media/image62.png
    :width: 3.67708in
    :height: 3.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyi\image134.png| image:: media/image63.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyiimage134.png| image:: media/image63.png
    :width: 3.9375in
    :height: 2.89583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenki\image136.png| image:: media/image64.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenkiimage136.png| image:: media/image64.png
    :width: 3.9375in
    :height: 2.52083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image138.png| image:: media/image65.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenokimage138.png| image:: media/image65.png
    :width: 3.9375in
    :height: 2.64583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image140.png| image:: media/image66.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenokimage140.png| image:: media/image66.png
    :width: 2.3125in
    :height: 2.22917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_formirovanie_tsen\image142.png| image:: media/image67.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2311648529_formirovanie_tsenimage142.png| image:: media/image67.png
    :width: 3.9375in
    :height: 2.98958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image144.png| image:: media/image68.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage144.png| image:: media/image68.png
    :width: 3.9375in
    :height: 2.98958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image146.png| image:: media/image69.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage146.png| image:: media/image69.png
    :width: 3.9375in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image148.png| image:: media/image70.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage148.png| image:: media/image70.png
    :width: 2.3125in
    :height: 2.22917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image150.png| image:: media/image71.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage150.png| image:: media/image71.png
    :width: 3.9375in
    :height: 1.3125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image152.png| image:: media/image72.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage152.png| image:: media/image72.png
    :width: 3.9375in
    :height: 2.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image154.png| image:: media/image73.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage154.png| image:: media/image73.png
    :width: 3.9375in
    :height: 2.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image156.png| image:: media/image74.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelyaimage156.png| image:: media/image74.png
    :width: 2.375in
    :height: 1.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image158.png| image:: media/image75.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage158.png| image:: media/image75.png
    :width: 3.9375in
    :height: 1.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image160.png| image:: media/image76.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage160.png| image:: media/image76.png
    :width: 3.9375in
    :height: 1.70833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image162.png| image:: media/image77.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelemimage162.png| image:: media/image77.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image164.png| image:: media/image78.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatuimage164.png| image:: media/image78.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image166.png| image:: media/image79.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatuimage166.png| image:: media/image79.png
    :width: 3.9375in
    :height: 3.04167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_rezervirovanie_zapasov\image168.png| image:: media/image80.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_rezervirovanie_zapasovimage168.png| image:: media/image80.png
    :width: 3.9375in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image170.png| image:: media/image81.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage170.png| image:: media/image81.png
    :width: 3.9375in
    :height: 2.67708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image172.png| image:: media/image82.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage172.png| image:: media/image82.png
    :width: 3.9375in
    :height: 1.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnaya\image174.png| image:: media/image83.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_raskhodnaya_nakladnayaimage174.png| image:: media/image83.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_schet_faktura\image176.png| image:: media/image84.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_schet_fakturaimage176.png| image:: media/image84.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_vozvrat_tovarov\image178.png| image:: media/image85.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_vozvrat_tovarovimage178.png| image:: media/image85.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabot\image180.png| image:: media/image86.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabotimage180.png| image:: media/image86.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabot\image182.png| image:: media/image87.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417697458_akt_vyipolnennyikh_rabotimage182.png| image:: media/image87.png
    :width: 3.9375in
    :height: 1.48958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_peredacha_tovarov_na_komissiyu\image184.png| image:: media/image88.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_peredacha_tovarov_na_komissiyuimage184.png| image:: media/image88.png
    :width: 3.9375in
    :height: 2.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissionera\image186.png| image:: media/image89.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissioneraimage186.png| image:: media/image89.png
    :width: 3.9375in
    :height: 2.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissionera\image188.png| image:: media/image90.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_otchet_komissioneraimage188.png| image:: media/image90.png
    :width: 3.9375in
    :height: 2.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3008668044_priem_tovarov_na_komissiyu\image190.png| image:: media/image91.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3008668044_priem_tovarov_na_komissiyuimage190.png| image:: media/image91.png
    :width: 3.9375in
    :height: 2.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_roznichnyie_prodazhi\image193.png| image:: media/image92.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_roznichnyie_prodazhiimage193.png| image:: media/image92.png
    :width: 3.9375in
    :height: 1.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image195.png| image:: media/image93.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage195.png| image:: media/image93.png
    :width: 3.9375in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image197.png| image:: media/image94.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage197.png| image:: media/image94.png
    :width: 3.9375in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image199.png| image:: media/image95.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage199.png| image:: media/image95.png
    :width: 3.9375in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochku\image201.png| image:: media/image96.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_peremeschenie_zapasov_v_roznichnuyu_tochkuimage201.png| image:: media/image96.png
    :width: 3.9375in
    :height: 2.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_postuplenie_tovara_v_roznitsu\image203.png| image:: media/image97.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_postuplenie_tovara_v_roznitsuimage203.png| image:: media/image97.png
    :width: 3.9375in
    :height: 2.80208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image205.png| image:: media/image98.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage205.png| image:: media/image98.png
    :width: 3.90625in
    :height: 1.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image207.png| image:: media/image99.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage207.png| image:: media/image99.png
    :width: 3.9375in
    :height: 1.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image209.png| image:: media/image100.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage209.png| image:: media/image100.png
    :width: 3.9375in
    :height: 2.60417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image211.png| image:: media/image101.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage211.png| image:: media/image101.png
    :width: 3.9375in
    :height: 1.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image213.png| image:: media/image102.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage213.png| image:: media/image102.png
    :width: 3.9375in
    :height: 2.19792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image215.png| image:: media/image103.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sistemeimage215.png| image:: media/image103.png
    :width: 3.9375in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_v__tetradi_\image217.png| image:: media/image104.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_v__tetradi_image217.png| image:: media/image104.png
    :width: 3.9375in
    :height: 2.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsiey\image219.png| image:: media/image105.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsieyimage219.png| image:: media/image105.png
    :width: 3.9375in
    :height: 2.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image221.png| image:: media/image106.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage221.png| image:: media/image106.png
    :width: 3.9375in
    :height: 2.1875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image223.png| image:: media/image107.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage223.png| image:: media/image107.png
    :width: 3.9375in
    :height: 2.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetom\image225.png| image:: media/image108.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_torgovyie_tochki_s_summovyim_uchetomimage225.png| image:: media/image108.png
    :width: 3.9375in
    :height: 2.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image227.png| image:: media/image109.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniemimage227.png| image:: media/image109.png
    :width: 3.59375in
    :height: 1.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image229.png| image:: media/image110.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniemimage229.png| image:: media/image110.png
    :width: 3.59375in
    :height: 0.95833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_\image231.png| image:: media/image111.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_image231.png| image:: media/image111.png
    :width: 3.9375in
    :height: 2.65625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_\image233.png| image:: media/image112.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otchetyi_razdela__prodazhi_image233.png| image:: media/image112.png
    :width: 3.9375in
    :height: 3.17708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateley\image235.png| image:: media/image113.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateleyimage235.png| image:: media/image113.png
    :width: 3.90625in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatki\image237.png| image:: media/image114.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatkiimage237.png| image:: media/image114.png
    :width: 4.25in
    :height: 2.52083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateley\image239.png| image:: media/image115.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateleyimage239.png| image:: media/image115.png
    :width: 3.9375in
    :height: 2.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetov\image241.png| image:: media/image116.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetovimage241.png| image:: media/image116.png
    :width: 3.9375in
    :height: 2.23958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_debitorskaya_zadolzhennost_po_srokam\image243.png| image:: media/image117.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_debitorskaya_zadolzhennost_po_srokamimage243.png| image:: media/image117.png
    :width: 3.9375in
    :height: 1.95833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_otgruzka_i_oplata_po_zakazam_pokupateley\image245.png| image:: media/image118.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_otgruzka_i_oplata_po_zakazam_pokupateleyimage245.png| image:: media/image118.png
    :width: 3.9375in
    :height: 4.27083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image247.png| image:: media/image119.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyiimage247.png| image:: media/image119.png
    :width: 4.01042in
    :height: 2.77083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image249.png| image:: media/image120.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyiimage249.png| image:: media/image120.png
    :width: 3.9375in
    :height: 3.375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_denezhnyie_sredstva_v_kassakh_kkm\image251.png| image:: media/image121.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_denezhnyie_sredstva_v_kassakh_kkmimage251.png| image:: media/image121.png
    :width: 3.9375in
    :height: 1.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_summovoy_uchet_v_roznichnoy_tochke\image253.png| image:: media/image122.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_585350365_summovoy_uchet_v_roznichnoy_tochkeimage253.png| image:: media/image122.png
    :width: 3.9375in
    :height: 1.36458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image257.png| image:: media/image123.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklaturaimage257.png| image:: media/image123.png
    :width: 3.9375in
    :height: 1.59375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image259.png| image:: media/image124.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklaturaimage259.png| image:: media/image124.png
    :width: 3.97917in
    :height: 2.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3156616309_vvod_osnovnoy_informatsii_o_nomenklature\image261.png| image:: media/image125.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3156616309_vvod_osnovnoy_informatsii_o_nomenklatureimage261.png| image:: media/image125.png
    :width: 3.9375in
    :height: 2.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapas\image263.png| image:: media/image126.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapasimage263.png| image:: media/image126.png
    :width: 3.9375in
    :height: 2.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapas\image265.png| image:: media/image127.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_zapasimage265.png| image:: media/image127.png
    :width: 2.60417in
    :height: 1.625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_usluga\image267.png| image:: media/image128.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_uslugaimage267.png| image:: media/image128.png
    :width: 3.9375in
    :height: 2.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_rabota\image269.png| image:: media/image129.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_rabotaimage269.png| image:: media/image129.png
    :width: 3.9375in
    :height: 2.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_operatsiya\image271.png| image:: media/image130.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_operatsiyaimage271.png| image:: media/image130.png
    :width: 3.9375in
    :height: 2.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_268535395_vid_rabot\image273.png| image:: media/image131.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_268535395_vid_rabotimage273.png| image:: media/image131.png
    :width: 3.9375in
    :height: 2.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniya\image275.png| image:: media/image132.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniyaimage275.png| image:: media/image132.png
    :width: 3.9375in
    :height: 1.875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_sklada\image277.png| image:: media/image133.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_skladaimage277.png| image:: media/image133.png
    :width: 3.9375in
    :height: 1.25in
 .. |image133| image:: media/image134.png
@@ -9952,846 +9952,846 @@ settings, которая находится в разделе Bookkeeping portab
 .. |image155| image:: media/image156.png
    :width: 6.5in
    :height: 3.37708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image279.png| image:: media/image157.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage279.png| image:: media/image157.png
    :width: 3.9375in
    :height: 2.28125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image281.png| image:: media/image158.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage281.png| image:: media/image158.png
    :width: 3.9375in
    :height: 3.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image283.png| image:: media/image159.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage283.png| image:: media/image159.png
    :width: 3.9375in
    :height: 1.61458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschiku\image285.png| image:: media/image160.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_zakaz_postavschikuimage285.png| image:: media/image160.png
    :width: 3.9375in
    :height: 1.61458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_postavschika\image287.png| image:: media/image161.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_postavschikaimage287.png| image:: media/image161.png
    :width: 3.9375in
    :height: 3.08333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image289.png| image:: media/image162.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage289.png| image:: media/image162.png
    :width: 3.9375in
    :height: 3.07292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image291.png| image:: media/image163.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage291.png| image:: media/image163.png
    :width: 3.9375in
    :height: 1.57292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov\image293.png| image:: media/image164.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarovimage293.png| image:: media/image164.png
    :width: 3.9375in
    :height: 3.08333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_vozvrat_tovarov_postavschiku\image295.png| image:: media/image165.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_vozvrat_tovarov_postavschikuimage295.png| image:: media/image165.png
    :width: 3.9375in
    :height: 3.04167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_faktura_poluchennyiy\image297.png| image:: media/image166.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_schet_faktura_poluchennyiyimage297.png| image:: media/image166.png
    :width: 3.9375in
    :height: 3.05208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_po_yacheykam\image299.png| image:: media/image167.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_po_yacheykamimage299.png| image:: media/image167.png
    :width: 3.9375in
    :height: 2.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_zapasov\image301.png| image:: media/image168.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_56874444_peremeschenie_zapasovimage301.png| image:: media/image168.png
    :width: 3.9375in
    :height: 2.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_dopolnitelnyie_raskhodyi\image303.png| image:: media/image169.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_dopolnitelnyie_raskhodyiimage303.png| image:: media/image169.png
    :width: 3.9375in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennost\image305.png| image:: media/image170.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennostimage305.png| image:: media/image170.png
    :width: 3.9375in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_izlishki_i_nedostachi\image307.png| image:: media/image171.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_izlishki_i_nedostachiimage307.png| image:: media/image171.png
    :width: 3.9375in
    :height: 1.625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_inventarizatsiya_zapasov\image309.png| image:: media/image172.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_inventarizatsiya_zapasovimage309.png| image:: media/image172.png
    :width: 3.9375in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_oprikhodovanie_zapasov\image311.png| image:: media/image173.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_oprikhodovanie_zapasovimage311.png| image:: media/image173.png
    :width: 3.9375in
    :height: 2.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_297758461_spisanie_zapasov\image313.png| image:: media/image174.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_297758461_spisanie_zapasovimage313.png| image:: media/image174.png
    :width: 3.9375in
    :height: 2.52083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3278478469_priem_tovarov_na_komissiyu\image315.png| image:: media/image175.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3278478469_priem_tovarov_na_komissiyuimage315.png| image:: media/image175.png
    :width: 3.9375in
    :height: 2.69792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3278478469_otchet_komitentu_o_prodazhakh\image317.png| image:: media/image176.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3278478469_otchet_komitentu_o_prodazhakhimage317.png| image:: media/image176.png
    :width: 4.16667in
    :height: 2.0625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image319.png| image:: media/image177.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage319.png| image:: media/image177.png
    :width: 3.9375in
    :height: 2.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image321.png| image:: media/image178.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage321.png| image:: media/image178.png
    :width: 3.9375in
    :height: 1.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenie\image323.png| image:: media/image179.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_peredacha_v_pererabotku_i_na_otvetstvennoe_khranenieimage323.png| image:: media/image179.png
    :width: 3.9375in
    :height: 1.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_realizatsiya_tovarov_s_ordernogo_sklada\image325.png| image:: media/image180.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_realizatsiya_tovarov_s_ordernogo_skladaimage325.png| image:: media/image180.png
    :width: 3.9375in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyi\image327.png| image:: media/image181.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyiimage327.png| image:: media/image181.png
    :width: 3.9375in
    :height: 1.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyi\image329.png| image:: media/image182.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_zachet_predoplatyiimage329.png| image:: media/image182.png
    :width: 3.9375in
    :height: 2.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_order\image331.png| image:: media/image183.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_orderimage331.png| image:: media/image183.png
    :width: 3.9375in
    :height: 1.96875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov_na_ordernyiy_sklad\image333.png| image:: media/image184.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_postuplenie_tovarov_na_ordernyiy_skladimage333.png| image:: media/image184.png
    :width: 3.9375in
    :height: 2.63542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_order\image335.png| image:: media/image185.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_orderimage335.png| image:: media/image185.png
    :width: 3.9375in
    :height: 2.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image337.png| image:: media/image186.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage337.png| image:: media/image186.png
    :width: 3.9375in
    :height: 2.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image339.png| image:: media/image187.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage339.png| image:: media/image187.png
    :width: 3.9375in
    :height: 1.91667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image341.png| image:: media/image188.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage341.png| image:: media/image188.png
    :width: 3.9375in
    :height: 1.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image343.png| image:: media/image189.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakhimage343.png| image:: media/image189.png
    :width: 0.27083in
    :height: 0.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image345.png| image:: media/image190.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentovimage345.png| image:: media/image190.png
    :width: 3.9375in
    :height: 1.69792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image347.png| image:: media/image191.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentovimage347.png| image:: media/image191.png
    :width: 2.39583in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_otchetyi_razdela__zakupki_\image349.png| image:: media/image192.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1022853550_otchetyi_razdela__zakupki_image349.png| image:: media/image192.png
    :width: 3.9375in
    :height: 3.51042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakh\image351.png| image:: media/image193.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakhimage351.png| image:: media/image193.png
    :width: 3.9375in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_grafik_dvizheniya_zapasov\image353.png| image:: media/image194.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_grafik_dvizheniya_zapasovimage353.png| image:: media/image194.png
    :width: 3.9375in
    :height: 2.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_razmeschenie_zakazov\image355.png| image:: media/image195.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_razmeschenie_zakazovimage355.png| image:: media/image195.png
    :width: 3.9375in
    :height: 4.08333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oborachivaemost_zapasov\image357.png| image:: media/image196.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oborachivaemost_zapasovimage357.png| image:: media/image196.png
    :width: 3.9375in
    :height: 3.55208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_kreditorskaya_zadolzhennost_po_srokam\image359.png| image:: media/image197.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_kreditorskaya_zadolzhennost_po_srokamimage359.png| image:: media/image197.png
    :width: 3.9375in
    :height: 1.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image361.png| image:: media/image198.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikamimage361.png| image:: media/image198.png
    :width: 3.9375in
    :height: 3.3125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image363.png| image:: media/image199.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikamimage363.png| image:: media/image199.png
    :width: 3.9375in
    :height: 2.13542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazov\image365.png| image:: media/image200.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazovimage365.png| image:: media/image200.png
    :width: 3.9375in
    :height: 2.13542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetov\image367.png| image:: media/image201.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetovimage367.png| image:: media/image201.png
    :width: 3.9375in
    :height: 1.97917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakupki\image369.png| image:: media/image202.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakupkiimage369.png| image:: media/image202.png
    :width: 3.66667in
    :height: 4.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_raschetyi_s_postavschikami\image371.png| image:: media/image203.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_raschetyi_s_postavschikamiimage371.png| image:: media/image203.png
    :width: 4.25in
    :height: 1.5625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi\image373.png| image:: media/image204.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyiimage373.png| image:: media/image204.png
    :width: 3.9375in
    :height: 3.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi\image375.png| image:: media/image205.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyiimage375.png| image:: media/image205.png
    :width: 3.9375in
    :height: 4.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtd\image377.png| image:: media/image206.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtdimage377.png| image:: media/image206.png
    :width: 3.9375in
    :height: 2.13542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtd\image379.png| image:: media/image207.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_v_razreze_gtdimage379.png| image:: media/image207.png
    :width: 3.9375in
    :height: 2.1875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyie\image381.png| image:: media/image208.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyieimage381.png| image:: media/image208.png
    :width: 3.9375in
    :height: 1.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyie\image383.png| image:: media/image209.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_prinyatyieimage383.png| image:: media/image209.png
    :width: 3.9375in
    :height: 1.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_peredannyie\image385.png| image:: media/image210.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zapasyi_peredannyieimage385.png| image:: media/image210.png
    :width: 3.9375in
    :height: 1.97917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladu\image387.png| image:: media/image211.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladuimage387.png| image:: media/image211.png
    :width: 4.21875in
    :height: 2.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_postuplenie_i_oplata_po_zakazam\image389.png| image:: media/image212.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_postuplenie_i_oplata_po_zakazamimage389.png| image:: media/image212.png
    :width: 3.9375in
    :height: 2.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladam\image391.png| image:: media/image213.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladamimage391.png| image:: media/image213.png
    :width: 4.25in
    :height: 2.16667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image393.png| image:: media/image214.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage393.png| image:: media/image214.png
    :width: 3.9375in
    :height: 2.07292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image395.png| image:: media/image215.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage395.png| image:: media/image215.png
    :width: 3.9375in
    :height: 2.82292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryad\image397.png| image:: media/image216.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zakaz_naryadimage397.png| image:: media/image216.png
    :width: 3.9375in
    :height: 2.57292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiya\image399.png| image:: media/image217.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiyaimage399.png| image:: media/image217.png
    :width: 3.9375in
    :height: 1.84375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiya\image401.png| image:: media/image218.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_resursyi_predpriyatiyaimage401.png| image:: media/image218.png
    :width: 3.9375in
    :height: 2.91667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_plan_grafik_rabot__uslug\image403.png| image:: media/image219.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_plan_grafik_rabot__uslugimage403.png| image:: media/image219.png
    :width: 3.94792in
    :height: 1.58333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zagruzka_resursov_predpriyatiya\image405.png| image:: media/image220.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_zagruzka_resursov_predpriyatiyaimage405.png| image:: media/image220.png
    :width: 4.25in
    :height: 2.97917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazov\image407.png| image:: media/image221.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazovimage407.png| image:: media/image221.png
    :width: 3.9375in
    :height: 2.48958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazov\image409.png| image:: media/image222.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4046111054_planirovanie_rabot_s_ispolzovaniem_zakazovimage409.png| image:: media/image222.png
    :width: 3.9375in
    :height: 2.51042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3979294552_otchetyi_razdela__servis_\image411.png| image:: media/image223.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3979294552_otchetyi_razdela__servis_image411.png| image:: media/image223.png
    :width: 3.9375in
    :height: 2.82292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_zadaniya_na_rabotu\image413.png| image:: media/image224.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_zadaniya_na_rabotuimage413.png| image:: media/image224.png
    :width: 3.9375in
    :height: 2.0625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_vyipolnenie_zakazov_pokupateley\image415.png| image:: media/image225.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_vyipolnenie_zakazov_pokupateleyimage415.png| image:: media/image225.png
    :width: 3.9375in
    :height: 3.34375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazov\image417.png| image:: media/image226.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazovimage417.png| image:: media/image226.png
    :width: 3.9375in
    :height: 2.80208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchiku\image419.png| image:: media/image227.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchikuimage419.png| image:: media/image227.png
    :width: 3.9375in
    :height: 2.875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_proizvodstvo\image421.png| image:: media/image228.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_proizvodstvoimage421.png| image:: media/image228.png
    :width: 4.0625in
    :height: 2.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image423.png| image:: media/image229.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage423.png| image:: media/image229.png
    :width: 3.9375in
    :height: 1.63542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image425.png| image:: media/image230.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage425.png| image:: media/image230.png
    :width: 3.9375in
    :height: 1.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image427.png| image:: media/image231.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuskaimage427.png| image:: media/image231.png
    :width: 3.9375in
    :height: 1.92708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zakazyi_na_proizvodstvo\image429.png| image:: media/image232.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zakazyi_na_proizvodstvoimage429.png| image:: media/image232.png
    :width: 3.9375in
    :height: 2.625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiya\image433.png| image:: media/image233.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiyaimage433.png| image:: media/image233.png
    :width: 4.26042in
    :height: 1.6875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiya\image435.png| image:: media/image234.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_resursyi_predpriyatiyaimage435.png| image:: media/image234.png
    :width: 4.33333in
    :height: 3.09375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_plan_grafik_proizvodstva\image437.png| image:: media/image235.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_plan_grafik_proizvodstvaimage437.png| image:: media/image235.png
    :width: 4.33333in
    :height: 2.4375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zagruzka_resursov_predpriyatiya\image439.png| image:: media/image236.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_zagruzka_resursov_predpriyatiyaimage439.png| image:: media/image236.png
    :width: 4.33333in
    :height: 3.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2485438006_planirovanie_proizvodstva_s_ispolzovaniem_zakazov\image441.png| image:: media/image237.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2485438006_planirovanie_proizvodstva_s_ispolzovaniem_zakazovimage441.png| image:: media/image237.png
    :width: 4.33333in
    :height: 2.57292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_brigadyi\image443.png| image:: media/image238.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_brigadyiimage443.png| image:: media/image238.png
    :width: 4.33333in
    :height: 2.57292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyi\image445.png| image:: media/image239.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyiimage445.png| image:: media/image239.png
    :width: 4.33333in
    :height: 2.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyi\image447.png| image:: media/image240.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_sdelnyiy_naryad_na_vyipolnennyie_rabotyiimage447.png| image:: media/image240.png
    :width: 4.27083in
    :height: 1.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vneshnee_zadanie\image449.png| image:: media/image241.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vneshnee_zadanieimage449.png| image:: media/image241.png
    :width: 4.33333in
    :height: 2.59375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vnutrennee_zadanie\image451.png| image:: media/image242.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3479701569_vnutrennee_zadanieimage451.png| image:: media/image242.png
    :width: 4.33333in
    :height: 2.59375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2118895435_uchet_vremeni\image453.png| image:: media/image243.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2118895435_uchet_vremeniimage453.png| image:: media/image243.png
    :width: 4.33333in
    :height: 1.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image455.png| image:: media/image244.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage455.png| image:: media/image244.png
    :width: 4.33333in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image431.png| image:: media/image245.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage431.png| image:: media/image245.png
    :width: 0.14583in
    :height: 0.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image457.png| image:: media/image246.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsiiimage457.png| image:: media/image246.png
    :width: 4.33333in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsii\image459.png| image:: media/image247.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsiiimage459.png| image:: media/image247.png
    :width: 4.33333in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsii\image461.png| image:: media/image248.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_617281922__prostaya__skhema_otrazheniya_vyipuska_produktsiiimage461.png| image:: media/image248.png
    :width: 4.33333in
    :height: 2.76042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__produktsiya_\image463.png| image:: media/image249.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__produktsiya_image463.png| image:: media/image249.png
    :width: 4.33333in
    :height: 2.70833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zapasyi_\image465.png| image:: media/image250.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zapasyi_image465.png| image:: media/image250.png
    :width: 4.33333in
    :height: 2.96875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zatratyi_\image467.png| image:: media/image251.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3780443897_zakladka__zatratyi_image467.png| image:: media/image251.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image469.png| image:: media/image252.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage469.png| image:: media/image252.png
    :width: 4.33333in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image471.png| image:: media/image253.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage471.png| image:: media/image253.png
    :width: 4.33333in
    :height: 1.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotke\image473.png| image:: media/image254.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3513954089_otchet_o_pererabotkeimage473.png| image:: media/image254.png
    :width: 4.33333in
    :height: 1.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_otchetyi_razdela__proizvodstvo_\image475.png| image:: media/image255.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2731615108_otchetyi_razdela__proizvodstvo_image475.png| image:: media/image255.png
    :width: 4.33333in
    :height: 3.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_vyipolnenie_rabot__vyipusk_produktsii\image477.png| image:: media/image256.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_vyipolnenie_rabot__vyipusk_produktsiiimage477.png| image:: media/image256.png
    :width: 4.33333in
    :height: 4.09375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvo\image479.png| image:: media/image257.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvoimage479.png| image:: media/image257.png
    :width: 4.33333in
    :height: 3.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_normativnyiy_sostav_izdeliya\image481.png| image:: media/image258.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_normativnyiy_sostav_izdeliyaimage481.png| image:: media/image258.png
    :width: 4.33333in
    :height: 3.45833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstva\image483.png| image:: media/image259.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstvaimage483.png| image:: media/image259.png
    :width: 4.32292in
    :height: 2.96875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_sdelnyie_naryadyi\image485.png| image:: media/image260.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3647657549_sdelnyie_naryadyiimage485.png| image:: media/image260.png
    :width: 4.33333in
    :height: 2.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_dengi\image487.png| image:: media/image261.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_dengiimage487.png| image:: media/image261.png
    :width: 4.33333in
    :height: 2.95833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image489.png| image:: media/image262.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyiimage489.png| image:: media/image262.png
    :width: 4.33333in
    :height: 1.30208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image491.png| image:: media/image263.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyiimage491.png| image:: media/image263.png
    :width: 4.22917in
    :height: 2.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyut\image495.png| image:: media/image264.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyutimage495.png| image:: media/image264.png
    :width: 4.33333in
    :height: 1.19792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_banki\image497.png| image:: media/image265.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_bankiimage497.png| image:: media/image265.png
    :width: 4.33333in
    :height: 2.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstv\image499.png| image:: media/image266.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstvimage499.png| image:: media/image266.png
    :width: 4.25in
    :height: 3.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_pokupatelya\image501.png| image:: media/image267.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_pokupatelyaimage501.png| image:: media/image267.png
    :width: 4.33333in
    :height: 2.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_podotchetnika\image503.png| image:: media/image268.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_ot_podotchetnikaimage503.png| image:: media/image268.png
    :width: 4.33333in
    :height: 2.65625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1434331145_prochee\image505.png| image:: media/image269.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1434331145_procheeimage505.png| image:: media/image269.png
    :width: 4.33333in
    :height: 2.65625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschiku\image507.png| image:: media/image270.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschikuimage507.png| image:: media/image270.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschiku\image509.png| image:: media/image271.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_postavschikuimage509.png| image:: media/image271.png
    :width: 4.33333in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetniku\image511.png| image:: media/image272.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetnikuimage511.png| image:: media/image272.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_zarplata_po_vedomosti\image513.png| image:: media/image273.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_zarplata_po_vedomostiimage513.png| image:: media/image273.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_prochee\image515.png| image:: media/image274.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_procheeimage515.png| image:: media/image274.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_nalogi\image517.png| image:: media/image275.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_nalogiimage517.png| image:: media/image275.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasse\image519.png| image:: media/image276.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasseimage519.png| image:: media/image276.png
    :width: 4.33333in
    :height: 2.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_peremeschenie_denezhnyikh_sredstv\image521.png| image:: media/image277.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_peremeschenie_denezhnyikh_sredstvimage521.png| image:: media/image277.png
    :width: 4.33333in
    :height: 2.09375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_postuplenie_na_schet\image523.png| image:: media/image278.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_postuplenie_na_schetimage523.png| image:: media/image278.png
    :width: 4.33333in
    :height: 2.98958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_raskhod_so_scheta\image529.png| image:: media/image279.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_raskhod_so_schetaimage529.png| image:: media/image279.png
    :width: 4.33333in
    :height: 2.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image531.png| image:: media/image280.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage531.png| image:: media/image280.png
    :width: 4.33333in
    :height: 2.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image533.png| image:: media/image281.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage533.png| image:: media/image281.png
    :width: 4.33333in
    :height: 2.05208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchet\image535.png| image:: media/image282.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_avansovyiy_otchetimage535.png| image:: media/image282.png
    :width: 4.33333in
    :height: 2.54167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_banku\image537.png| image:: media/image283.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_bankuimage537.png| image:: media/image283.png
    :width: 4.33333in
    :height: 2.54167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_zayavka_na_raskhod_deneg\image539.png| image:: media/image284.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_zayavka_na_raskhod_denegimage539.png| image:: media/image284.png
    :width: 4.33333in
    :height: 2.0625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_postuplenie_deneg__plan_\image541.png| image:: media/image285.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_postuplenie_deneg__plan_image541.png| image:: media/image285.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_peremeschenie_deneg__plan_\image543.png| image:: media/image286.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_peremeschenie_deneg__plan_image543.png| image:: media/image286.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_deneg\image545.png| image:: media/image287.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_denegimage545.png| image:: media/image287.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_\image547.png| image:: media/image288.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_image547.png| image:: media/image288.png
    :width: 3.95833in
    :height: 3.76042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstva\image549.png| image:: media/image289.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstvaimage549.png| image:: media/image289.png
    :width: 4.33333in
    :height: 3.41667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image551.png| image:: media/image290.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvamimage551.png| image:: media/image290.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image553.png| image:: media/image291.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvamimage553.png| image:: media/image291.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_raschetyi_s_podotchetnikami\image555.png| image:: media/image292.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1486783024_raschetyi_s_podotchetnikamiimage555.png| image:: media/image292.png
    :width: 4.33333in
    :height: 1.98958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image557.png| image:: media/image293.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage557.png| image:: media/image293.png
    :width: 3.88542in
    :height: 1.89583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image559.png| image:: media/image294.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage559.png| image:: media/image294.png
    :width: 0.13542in
    :height: 0.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image561.png| image:: media/image295.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniyimage561.png| image:: media/image295.png
    :width: 3.10417in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanie\image563.png| image:: media/image296.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanieimage563.png| image:: media/image296.png
    :width: 4.33333in
    :height: 3.04167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanie\image565.png| image:: media/image297.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_shtatnoe_raspisanieimage565.png| image:: media/image297.png
    :width: 4.19792in
    :height: 4.27083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image567.png| image:: media/image298.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotuimage567.png| image:: media/image298.png
    :width: 4.33333in
    :height: 2.55208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image569.png| image:: media/image299.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotuimage569.png| image:: media/image299.png
    :width: 4.33333in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenie\image571.png| image:: media/image300.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenieimage571.png| image:: media/image300.png
    :width: 4.33333in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenie\image573.png| image:: media/image301.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_kadrovoe_peremeschenieimage573.png| image:: media/image301.png
    :width: 4.33333in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_uvolnenie\image575.png| image:: media/image302.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2002997309_uvolnenieimage575.png| image:: media/image302.png
    :width: 4.33333in
    :height: 2.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_raschet_i_nachislenie_zarabotnoy_platyi\image577.png| image:: media/image303.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_raschet_i_nachislenie_zarabotnoy_platyiimage577.png| image:: media/image303.png
    :width: 3.44792in
    :height: 3.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_tabel\image579.png| image:: media/image304.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_tabelimage579.png| image:: media/image304.png
    :width: 4.33333in
    :height: 2.92708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikam\image581.png| image:: media/image305.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikamimage581.png| image:: media/image305.png
    :width: 4.33333in
    :height: 2.70833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image583.png| image:: media/image306.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage583.png| image:: media/image306.png
    :width: 4.33333in
    :height: 3.23958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image585.png| image:: media/image307.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage585.png| image:: media/image307.png
    :width: 4.33333in
    :height: 1.25in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image587.png| image:: media/image308.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage587.png| image:: media/image308.png
    :width: 4.33333in
    :height: 1.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetov\image589.png| image:: media/image309.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_parametryi_raschetovimage589.png| image:: media/image309.png
    :width: 4.33333in
    :height: 1.40625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_grafiki_rabotyi\image591.png| image:: media/image310.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_grafiki_rabotyiimage591.png| image:: media/image310.png
    :width: 4.33333in
    :height: 3.28125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomost\image593.png| image:: media/image311.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomostimage593.png| image:: media/image311.png
    :width: 4.33333in
    :height: 2.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_otchetyi_razdela__zarplata_\image595.png| image:: media/image312.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_402781231_otchetyi_razdela__zarplata_image595.png| image:: media/image312.png
    :width: 4.33333in
    :height: 1.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_spisok_sotrudnikov\image597.png| image:: media/image313.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_spisok_sotrudnikovimage597.png| image:: media/image313.png
    :width: 4.33333in
    :height: 3.76042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_nachisleniya_i_uderzhaniya\image599.png| image:: media/image314.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_nachisleniya_i_uderzhaniyaimage599.png| image:: media/image314.png
    :width: 4.32292in
    :height: 4.36458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_raschetyi_s_personalom\image601.png| image:: media/image315.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_raschetyi_s_personalomimage601.png| image:: media/image315.png
    :width: 4.33333in
    :height: 4.57292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremya\image603.png| image:: media/image316.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremyaimage603.png| image:: media/image316.png
    :width: 4.33333in
    :height: 3.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremya\image605.png| image:: media/image317.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3022240991_otrabotannoe_vremyaimage605.png| image:: media/image317.png
    :width: 4.33333in
    :height: 4.28125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_provedenie_dokumentov\image607.png| image:: media/image318.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_provedenie_dokumentovimage607.png| image:: media/image318.png
    :width: 3.29167in
    :height: 2.01042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_neposredstvennyiy_vvod_provodok\image609.png| image:: media/image319.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_neposredstvennyiy_vvod_provodokimage609.png| image:: media/image319.png
    :width: 4.33333in
    :height: 3.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_plan_schetov\image611.png| image:: media/image320.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_plan_schetovimage611.png| image:: media/image320.png
    :width: 4.33333in
    :height: 3.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_dokument__sverka_vzaimoraschetov_\image613.png| image:: media/image321.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_dokument__sverka_vzaimoraschetov_image613.png| image:: media/image321.png
    :width: 4.33333in
    :height: 3.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_korrektirovka_dolga\image615.png| image:: media/image322.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_korrektirovka_dolgaimage615.png| image:: media/image322.png
    :width: 4.33333in
    :height: 2.76042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_\image617.png| image:: media/image323.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_image617.png| image:: media/image323.png
    :width: 4.33333in
    :height: 2.5625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image619.png| image:: media/image324.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogovimage619.png| image:: media/image324.png
    :width: 4.33333in
    :height: 2.5625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image621.png| image:: media/image325.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogovimage621.png| image:: media/image325.png
    :width: 4.25in
    :height: 2.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image623.png| image:: media/image326.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsaimage623.png| image:: media/image326.png
    :width: 4.21875in
    :height: 3.08333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image625.png| image:: media/image327.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsaimage625.png| image:: media/image327.png
    :width: 4.32292in
    :height: 3.35417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image627.png| image:: media/image328.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage627.png| image:: media/image328.png
    :width: 4.33333in
    :height: 2.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image629.png| image:: media/image329.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage629.png| image:: media/image329.png
    :width: 4.33333in
    :height: 2.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image631.png| image:: media/image330.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage631.png| image:: media/image330.png
    :width: 3.85417in
    :height: 2.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image633.png| image:: media/image331.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestveimage633.png| image:: media/image331.png
    :width: 3.85417in
    :height: 2.51042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktiva\image635.png| image:: media/image332.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktivaimage635.png| image:: media/image332.png
    :width: 4.33333in
    :height: 3.27083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktiva\image637.png| image:: media/image333.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_registratsiya_novogo_aktivaimage637.png| image:: media/image333.png
    :width: 4.33333in
    :height: 2.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_izmenenie_parametrov\image639.png| image:: media/image334.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_izmenenie_parametrovimage639.png| image:: media/image334.png
    :width: 4.33333in
    :height: 2.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiya\image641.png| image:: media/image335.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiyaimage641.png| image:: media/image335.png
    :width: 4.33333in
    :height: 1.29167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiya\image643.png| image:: media/image336.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4112364289_amortizatsiyaimage643.png| image:: media/image336.png
    :width: 4.33333in
    :height: 2.07292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4184338358_prodazha_imuschestva\image645.png| image:: media/image337.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4184338358_prodazha_imuschestvaimage645.png| image:: media/image337.png
    :width: 4.33333in
    :height: 2.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4184338358_spisanie_imuschestva\image647.png| image:: media/image338.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4184338358_spisanie_imuschestvaimage647.png| image:: media/image338.png
    :width: 4.33333in
    :height: 2.22917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_nachalnyie_ostatki\image649.png| image:: media/image339.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_nachalnyie_ostatkiimage649.png| image:: media/image339.png
    :width: 4.33333in
    :height: 4.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_zatratyi\image651.png| image:: media/image340.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_zatratyiimage651.png| image:: media/image340.png
    :width: 4.33333in
    :height: 2.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_denezhnyie_sredstva\image653.png| image:: media/image341.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_denezhnyie_sredstvaimage653.png| image:: media/image341.png
    :width: 4.33333in
    :height: 2.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_dokhodyi_i_raskhodyi\image655.png| image:: media/image342.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_dokhodyi_i_raskhodyiimage655.png| image:: media/image342.png
    :width: 4.33333in
    :height: 2.30208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_4241701554_operatsii\image657.png| image:: media/image343.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_4241701554_operatsiiimage657.png| image:: media/image343.png
    :width: 4.33333in
    :height: 2.85417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_otchetnost_razdela__predpriyatie_\image659.png| image:: media/image344.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3139127642_otchetnost_razdela__predpriyatie_image659.png| image:: media/image344.png
    :width: 4.09375in
    :height: 3.36458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image661.png| image:: media/image345.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyiimage661.png| image:: media/image345.png
    :width: 4.20833in
    :height: 5.29167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image663.png| image:: media/image346.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyiimage663.png| image:: media/image346.png
    :width: 4.04167in
    :height: 2.60417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_oborotno_saldovaya_vedomost\image665.png| image:: media/image347.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_oborotno_saldovaya_vedomostimage665.png| image:: media/image347.png
    :width: 4.33333in
    :height: 4.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_vyirabotka_imuschestva\image667.png| image:: media/image348.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_vyirabotka_imuschestvaimage667.png| image:: media/image348.png
    :width: 3.76042in
    :height: 2.15625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazh\image669.png| image:: media/image349.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazhimage669.png| image:: media/image349.png
    :width: 4.29167in
    :height: 3.25in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1839274723_kreditoryi\image671.png| image:: media/image350.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1839274723_kreditoryiimage671.png| image:: media/image350.png
    :width: 4.33333in
    :height: 3.76042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateli\image673.png| image:: media/image351.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateliimage673.png| image:: media/image351.png
    :width: 4.33333in
    :height: 3.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_166486322_raskhod_denezhnyikh_sredstv\image675.png| image:: media/image352.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_166486322_raskhod_denezhnyikh_sredstvimage675.png| image:: media/image352.png
    :width: 4.33333in
    :height: 4.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1143992319_dinamika_zadolzhennosti_i_debitoryi_s_prosrochkoy\image677.png| image:: media/image353.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1143992319_dinamika_zadolzhennosti_i_debitoryi_s_prosrochkoyimage677.png| image:: media/image353.png
    :width: 4.33333in
    :height: 4.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2140434732_dinamika_zadolzhennosti_i_kreditoryi_s_prosrochkoy\image679.png| image:: media/image354.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2140434732_dinamika_zadolzhennosti_i_kreditoryi_s_prosrochkoyimage679.png| image:: media/image354.png
    :width: 4.33333in
    :height: 4.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_\image681.png| image:: media/image355.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_image681.png| image:: media/image355.png
    :width: 4.33333in
    :height: 3.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_plan_faktnyiy_analiz_prodazh\image683.png| image:: media/image356.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_plan_faktnyiy_analiz_prodazhimage683.png| image:: media/image356.png
    :width: 4.33333in
    :height: 2.52083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimost\image685.png| image:: media/image357.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimostimage685.png| image:: media/image357.png
    :width: 3.9375in
    :height: 3.21875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhi\image687.png| image:: media/image358.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhiimage687.png| image:: media/image358.png
    :width: 4.14583in
    :height: 3.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhi\image689.png| image:: media/image359.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prodazhiimage689.png| image:: media/image359.png
    :width: 3.9375in
    :height: 3.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_tovaryi_v_tsenakh_nomenklaturyi\image691.png| image:: media/image360.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_tovaryi_v_tsenakh_nomenklaturyiimage691.png| image:: media/image360.png
    :width: 4.33333in
    :height: 3.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_balans\image693.png| image:: media/image361.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_balansimage693.png| image:: media/image361.png
    :width: 3.9375in
    :height: 3.52083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat\image695.png| image:: media/image362.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultatimage695.png| image:: media/image362.png
    :width: 4.33333in
    :height: 3.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image697.png| image:: media/image363.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_image697.png| image:: media/image363.png
    :width: 4.27083in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image699.png| image:: media/image364.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_image699.png| image:: media/image364.png
    :width: 4.33333in
    :height: 2.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitki\image701.png| image:: media/image365.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitkiimage701.png| image:: media/image365.png
    :width: 4.33333in
    :height: 3.28125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstv\image703.png| image:: media/image366.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstvimage703.png| image:: media/image366.png
    :width: 3.9375in
    :height: 3.58333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodom\image705.png| image:: media/image367.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodomimage705.png| image:: media/image367.png
    :width: 4.30208in
    :height: 3.38542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi\image707.png| image:: media/image368.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyiimage707.png| image:: media/image368.png
    :width: 4.32292in
    :height: 3.45833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstv\image709.png| image:: media/image369.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstvimage709.png| image:: media/image369.png
    :width: 4.33333in
    :height: 3.9375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstv\image711.png| image:: media/image370.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_dvizheniya_denezhnyikh_sredstvimage711.png| image:: media/image370.png
    :width: 4.33333in
    :height: 4.15625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkov\image713.png| image:: media/image371.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkovimage713.png| image:: media/image371.png
    :width: 4.33333in
    :height: 3.36458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkov\image715.png| image:: media/image372.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_byudzhet_pribyiley_i_ubyitkovimage715.png| image:: media/image372.png
    :width: 4.33333in
    :height: 2.33333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image717.png| image:: media/image373.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balansimage717.png| image:: media/image373.png
    :width: 4.33333in
    :height: 4.64583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image719.png| image:: media/image374.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balansimage719.png| image:: media/image374.png
    :width: 4.25in
    :height: 3.05208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_prosmotr_spiska_aktivnyikh_polzovateley\image721.png| image:: media/image375.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_prosmotr_spiska_aktivnyikh_polzovateleyimage721.png| image:: media/image375.png
    :width: 3.17708in
    :height: 1.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_blokirovka_rabotyi_polzovateley\image723.png| image:: media/image376.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_blokirovka_rabotyi_polzovateleyimage723.png| image:: media/image376.png
    :width: 3.05208in
    :height: 1.79167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_udalenie_pomechennyikh_obektov\image727.png| image:: media/image377.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_udalenie_pomechennyikh_obektovimage727.png| image:: media/image377.png
    :width: 3.875in
    :height: 1.6875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_datyi_zapreta_izmeneniya_dannyikh\image729.png| image:: media/image378.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_datyi_zapreta_izmeneniya_dannyikhimage729.png| image:: media/image378.png
    :width: 3.21875in
    :height: 1.55208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image731.png| image:: media/image379.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage731.png| image:: media/image379.png
    :width: 3.39583in
    :height: 1.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image733.png| image:: media/image380.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage733.png| image:: media/image380.png
    :width: 3.40625in
    :height: 2.1875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateley\image735.png| image:: media/image381.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_ustanovka_datyi_zapreta_izmeneniy_v_razreze_polzovateleyimage735.png| image:: media/image381.png
    :width: 3.40625in
    :height: 3.54167in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_sposobyi_ukazaniya_datyi_zapreta_izmeneniy\image737.png| image:: media/image382.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_sposobyi_ukazaniya_datyi_zapreta_izmeneniyimage737.png| image:: media/image382.png
    :width: 3.40625in
    :height: 4.09375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniya\image739.png| image:: media/image383.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniyaimage739.png| image:: media/image383.png
    :width: 3.46875in
    :height: 2.47917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_vidyi_kontaktnoy_informatsii\image741.png| image:: media/image384.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_vidyi_kontaktnoy_informatsiiimage741.png| image:: media/image384.png
    :width: 3.40625in
    :height: 4.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_versionirovanie_obektov\image743.png| image:: media/image385.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_versionirovanie_obektovimage743.png| image:: media/image385.png
    :width: 3.40625in
    :height: 4.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_dopolnitelnyie_rekvizityi_i_svedeniya\image745.png| image:: media/image386.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_dopolnitelnyie_rekvizityi_i_svedeniyaimage745.png| image:: media/image386.png
    :width: 4.33333in
    :height: 3.95833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image747.png| image:: media/image387.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage747.png| image:: media/image387.png
    :width: 4.33333in
    :height: 3.28125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image749.png| image:: media/image388.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage749.png| image:: media/image388.png
    :width: 4.33333in
    :height: 2.86458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image751.png| image:: media/image389.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage751.png| image:: media/image389.png
    :width: 4.33333in
    :height: 1.90625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image753.png| image:: media/image390.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniyimage753.png| image:: media/image390.png
    :width: 4.33333in
    :height: 2.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelya\image755.png| image:: media/image391.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelyaimage755.png| image:: media/image391.png
    :width: 4.33333in
    :height: 4.01042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelya\image757.png| image:: media/image392.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelyaimage757.png| image:: media/image392.png
    :width: 2.8125in
    :height: 1.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_prava\image759.png| image:: media/image393.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_pravaimage759.png| image:: media/image393.png
    :width: 4.33333in
    :height: 4.41667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image761.png| image:: media/image394.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage761.png| image:: media/image394.png
    :width: 4.33333in
    :height: 2.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image763.png| image:: media/image395.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage763.png| image:: media/image395.png
    :width: 4.33333in
    :height: 2.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image765.png| image:: media/image396.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage765.png| image:: media/image396.png
    :width: 4.33333in
    :height: 3.10417in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentov\image767.png| image:: media/image397.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_po_gruppam_kontragentovimage767.png| image:: media/image397.png
    :width: 4.32292in
    :height: 4.0625in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_k_kassam\image769.png| image:: media/image398.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_ogranichenie_dostupa_k_kassamimage769.png| image:: media/image398.png
    :width: 4.32292in
    :height: 3.63542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_nastroyki_polzovatelya\image771.png| image:: media/image399.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2285745015_nastroyki_polzovatelyaimage771.png| image:: media/image399.png
    :width: 4.33333in
    :height: 3.48958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image774.png| image:: media/image400.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniyaimage774.png| image:: media/image400.png
    :width: 4.33333in
    :height: 3.14583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image776.png| image:: media/image401.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniyaimage776.png| image:: media/image401.png
    :width: 4.33333in
    :height: 2.83333in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_poisk_i_udalenie_dubley\image778.png| image:: media/image402.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3686875335_poisk_i_udalenie_dubleyimage778.png| image:: media/image402.png
    :width: 4.33333in
    :height: 2.67708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikh\image780.png| image:: media/image403.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikhimage780.png| image:: media/image403.png
    :width: 4.33333in
    :height: 2.97917in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image782.png| image:: media/image404.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage782.png| image:: media/image404.png
    :width: 4.33333in
    :height: 2.875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image784.png| image:: media/image405.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage784.png| image:: media/image405.png
    :width: 4.33333in
    :height: 3.20833in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image786.png| image:: media/image406.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytomimage786.png| image:: media/image406.png
    :width: 4.33333in
    :height: 3.5in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image790.png| image:: media/image407.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage790.png| image:: media/image407.png
    :width: 4.33333in
    :height: 3.17708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image792.png| image:: media/image408.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage792.png| image:: media/image408.png
    :width: 3.96875in
    :height: 1.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image794.png| image:: media/image409.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage794.png| image:: media/image409.png
    :width: 3.80208in
    :height: 1.19792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image796.png| image:: media/image410.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanieimage796.png| image:: media/image410.png
    :width: 3.15625in
    :height: 1.71875in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image798.png| image:: media/image411.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage798.png| image:: media/image411.png
    :width: 4.33333in
    :height: 2.94792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image800.png| image:: media/image412.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage800.png| image:: media/image412.png
    :width: 4.13542in
    :height: 4.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image802.png| image:: media/image413.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroykiimage802.png| image:: media/image413.png
    :width: 4.32292in
    :height: 1.39583in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1594988825_interfeys_rabotyi_s_faylami\image804.png| image:: media/image414.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1594988825_interfeys_rabotyi_s_faylamiimage804.png| image:: media/image414.png
    :width: 4.33333in
    :height: 1.42708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_3335415884_interfeys_programmyi\image806.png| image:: media/image415.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_3335415884_interfeys_programmyiimage806.png| image:: media/image415.png
    :width: 4.33333in
    :height: 2.88542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image808.png| image:: media/image416.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstvaimage808.png| image:: media/image416.png
    :width: 0.10417in
    :height: 0.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image810.png| image:: media/image417.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstvaimage810.png| image:: media/image417.png
    :width: 3.46875in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image812.png| image:: media/image418.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage812.png| image:: media/image418.png
    :width: 4.25in
    :height: 2.75in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image814.png| image:: media/image419.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage814.png| image:: media/image419.png
    :width: 4.33333in
    :height: 2.8125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image816.png| image:: media/image420.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsaimage816.png| image:: media/image420.png
    :width: 0.25in
    :height: 0.125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_otobrazheniya_paneley\image818.png| image:: media/image421.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_otobrazheniya_paneleyimage818.png| image:: media/image421.png
    :width: 3.08333in
    :height: 1.26042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelov\image820.png| image:: media/image422.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelovimage820.png| image:: media/image422.png
    :width: 4.25in
    :height: 2.98958in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image822.png| image:: media/image423.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_oknaimage822.png| image:: media/image423.png
    :height: 0.11458in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image824.png| image:: media/image424.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_oknaimage824.png| image:: media/image424.png
    :width: 3.14583in
    :height: 2.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyi\image826.png| image:: media/image425.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyiimage826.png| image:: media/image425.png
    :width: 4.22917in
    :height: 3.80208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryi\image828.png| image:: media/image426.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryiimage828.png| image:: media/image426.png
    :width: 2.66667in
    :height: 3.01042in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_novogo_klienta\image830.png| image:: media/image427.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_novogo_klientaimage830.png| image:: media/image427.png
    :width: 4.33333in
    :height: 3.02083in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovora\image832.png| image:: media/image428.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovoraimage832.png| image:: media/image428.png
    :width: 4.33333in
    :height: 2.66667in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovora\image834.png| image:: media/image429.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_zakaza_pokupatelya_i_dogovoraimage834.png| image:: media/image429.png
    :width: 4.33333in
    :height: 2.17708in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image836.png| image:: media/image430.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage836.png| image:: media/image430.png
    :width: 4.33333in
    :height: 3.32292in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image838.png| image:: media/image431.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage838.png| image:: media/image431.png
    :width: 4.33333in
    :height: 3.05208in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsionera\image841.png| image:: media/image432.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipuska_konditsioneraimage841.png| image:: media/image432.png
    :width: 4.33333in
    :height: 2.53125in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_schet_na_oplatu\image843.png| image:: media/image433.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_schet_na_oplatuimage843.png| image:: media/image433.png
    :width: 4.33333in
    :height: 2.44792in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazha\image845.png| image:: media/image434.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazhaimage845.png| image:: media/image434.png
    :width: 4.33333in
    :height: 2.59375in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazha\image847.png| image:: media/image435.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_registratsiya_vyipolneniya_montazhaimage847.png| image:: media/image435.png
    :width: 4.33333in
    :height: 2.88542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyi\image849.png| image:: media/image436.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyiimage849.png| image:: media/image436.png
    :width: 4.33333in
    :height: 2.88542in
-.. |C:\Users\gpopov\Documents\ТестЯзыков\унф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyi\image851.png| image:: media/image437.png
+.. |C:UsersgpopovDocumentsТестЯзыковунф_1-5_manual_ru-v001_для_картинок_v2_1665602234_poluchenie_oplatyiimage851.png| image:: media/image437.png
    :width: 4.33333in
    :height: 2.88542in
 .. |image437| image:: media/image438.png
