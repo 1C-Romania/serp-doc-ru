@@ -3152,23 +3152,23 @@ Microsoft Office Excel, OpenOffice Calc и др.).
 
 В данной форме можно:
 
-|https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/40.png?_=1496991668| -
+|40.png| -
 считать серийный номер сканером штрихкодов.
 
 При регистрации серийных номеров с использованием сканера в систему
 сразу будут занесен номер и штрихкод этого серийного номера.
 
-|image142||https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/41.png?_=1496991668| -
+|image142||41.png| -
 выбрать серийный номер из созданных ранее
 
-|image144||https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/42.png?_=1496991668| -
+|image144||42.png| -
 ввести вручную с клавиатуры. В случае если указан шаблон номера,
 неизменяемая часть будет подставлена автоматически.
 
-|image146||https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/43.png?_=1496991668| -
+|image146||43.png| -
 создать серийный номер
 
-|image148||https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/44.png?_=1496991668| -
+|image148||44.png| -
 создать необходимое количество серийных номеров. Доступны действия
 "Сгенерировать номера в порядке очереди" и "Заполнить номерами из
 диапазона".
@@ -9907,31 +9907,31 @@ settings, которая находится в разделе Bookkeeping portab
 .. |image140| image:: media/image141.png
    :width: 6.49236in
    :height: 3.61528in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/40.png?_=1496991668| image:: media/image142.png
+.. |40.png| image:: media/image142.png
    :width: 0.41528in
    :height: 0.33056in
 .. |image142| image:: media/image143.png
    :width: 0.87708in
    :height: 0.3in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/41.png?_=1496991668| image:: media/image144.png
+.. |41.png| image:: media/image144.png
    :width: 0.87708in
    :height: 0.29236in
 .. |image144| image:: media/image145.png
    :width: 0.96944in
    :height: 0.29236in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/42.png?_=1496991668| image:: media/image146.png
+.. |42.png| image:: media/image146.png
    :width: 0.91528in
    :height: 0.3in
 .. |image146| image:: media/image147.png
    :width: 1.28472in
    :height: 0.28472in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/43.png?_=1496991668| image:: media/image148.png
+.. |43.png| image:: media/image148.png
    :width: 1.36181in
    :height: 0.35417in
 .. |image148| image:: media/image149.png
    :width: 1.05417in
    :height: 0.28472in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/44.png?_=1496991668| image:: media/image150.png
+.. |44.png| image:: media/image150.png
    :width: 1.46181in
    :height: 0.36944in
 .. |image150| image:: media/image151.png
