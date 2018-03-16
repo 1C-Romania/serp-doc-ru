@@ -10,6 +10,7 @@ Welcome to serp-doc-ru's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   head.rst
    01.rst
    02_.rst
    03__.rst
